@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout>
+    <data>
+        <variable
+            name="vm"
+            type="com.example.root.ngabensin.MainActivity"/>
+    </data>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.root.ngabensin.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"></TextView>
+
+    </LinearLayout>
+
+    <!--<com.example.root.ngabensin.speedocustom.PointerSpeedometer-->
+    <!--android:id="@+id/pointerSpeedometer"-->
+    <!--android:layout_width="300dp"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_alignParentTop="true"-->
+    <!--android:layout_centerHorizontal="true"-->
+    <!--/>-->
+    <com.example.root.ngabensin.customspeedo.ShaderSeekArc
+        android:id="@+id/seek_arc"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+
+        app:arcWidthRate="5"
+        app:endAngle="45"
+        app:endColor="0xFFCC151C"
+        app:endValue="4"
+        app:lineColor="0xff33B5E5"
+        app:markColor="0xff33B5E5"
+        app:markSize="30"
+        app:progress="2"
+        app:progressTextColor="0xffFFBB33"
+        app:progressTextSize="35"
+        app:showMark="true"
+        app:showProgress="true"
+        app:startAngle="-225"
+        app:startColor="0xFFFFF314"
+        app:startValue="0" />
+
+    <!--<com.xw.repo.BubbleSeekBar-->
+        <!--android:id="@+id/seekBar"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="200dp"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentStart="true"-->
+        <!--android:layout_below="@+id/pointerSpeedometer"-->
+        <!--android:layout_marginTop="45dp"-->
+        <!--app:bsb_bubble_color="#39796b"-->
+        <!--app:bsb_bubble_text_color="@android:color/white"-->
+        <!--app:bsb_max="100"-->
+        <!--app:bsb_min="0"-->
+        <!--app:bsb_progress="0"-->
+        <!--app:bsb_second_track_color="#004d40"-->
+        <!--app:bsb_section_count="5"-->
+        <!--app:bsb_section_text_position="bottom_sides"-->
+        <!--app:bsb_show_progress_in_float="false"-->
+        <!--app:bsb_show_section_mark="true"-->
+        <!--app:bsb_show_section_text="true"-->
+        <!--app:bsb_show_thumb_text="true"-->
+        <!--app:bsb_track_color="#39796b" />-->
+
+
+</RelativeLayout>
+
+</layout>
