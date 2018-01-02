@@ -1,68 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<layout>
-    <data>
-        <variable
-            name="vm"
-            type="com.example.root.ngabensin.MainActivity"/>
-    </data>
-
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/activity_main"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.root.ngabensin.MainActivity">
-
-    <LinearLayout
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_main"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:orientation="vertical">
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="com.example.root.ngabensin.MainActivity">
 
-        <TextView
-            android:id="@+id/txtView"
+
+        <Button
+            android:id="@+id/emptyBtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"></TextView>
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:text="Empty" />
 
-    </LinearLayout>
+        <Button
+            android:id="@+id/fullBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="Full" />
 
-    <!--<com.example.root.ngabensin.speedocustom.PointerSpeedometer-->
-    <!--android:id="@+id/pointerSpeedometer"-->
-    <!--android:layout_width="300dp"-->
-    <!--android:layout_height="wrap_content"-->
-    <!--android:layout_alignParentTop="true"-->
-    <!--android:layout_centerHorizontal="true"-->
-    <!--/>-->
-    <com.example.root.ngabensin.customspeedo.ShaderSeekArc
-        android:id="@+id/seek_arc"
-        android:layout_width="300dp"
-        android:layout_height="300dp"
-        android:layout_gravity="center"
+        <TextView
+            android:id="@+id/fuelLevelLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Fuel Level"
+            android:layout_below="@id/emptyBtn" />
 
-        app:arcWidthRate="5"
-        app:endAngle="45"
-        app:endColor="0xFFCC151C"
-        app:endValue="4"
-        app:lineColor="0xff33B5E5"
-        app:markColor="0xff33B5E5"
-        app:markSize="30"
-        app:progress="2"
-        app:progressTextColor="0xffFFBB33"
-        app:progressTextSize="35"
-        app:showMark="true"
-        app:showProgress="true"
-        app:startAngle="-225"
-        app:startColor="0xFFFFF314"
-        app:startValue="0" />
+        <SeekBar
+            android:id="@+id/seekBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_below="@id/fuelLevelLabel" />
 
-    <!--<com.xw.repo.BubbleSeekBar-->
+        <com.example.root.ngabensin.fuelgauge.FuelGaugeView
+            android:id="@+id/fuelGaugeView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/seekBar"
+            android:background="@color/fuel_gauge_background"
+
+            label="@string/fuel"
+            needleColor="@color/needle_color"
+            textColor="@color/text_color"
+            labelColor="@color/line_color"
+            />
+
+        <!--<com.example.root.ngabensin.speedocustom.PointerSpeedometer-->
+        <!--android:id="@+id/pointerSpeedometer"-->
+        <!--android:layout_width="300dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentTop="true"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--/>-->
+
+        <!--<com.example.root.ngabensin.customspeedo.ShaderSeekArc-->
+            <!--android:id="@+id/seek_arc"-->
+            <!--android:layout_width="300dp"-->
+            <!--android:layout_height="300dp"-->
+            <!--android:layout_gravity="center"-->
+
+            <!--app:arcWidthRate="5"-->
+            <!--app:endAngle="45"-->
+            <!--app:endColor="0xFFCC151C"-->
+            <!--app:endValue="4"-->
+            <!--app:lineColor="0xff33B5E5"-->
+            <!--app:markColor="0xff33B5E5"-->
+            <!--app:markSize="30"-->
+            <!--app:progress="2"-->
+            <!--app:progressTextColor="0xffFFBB33"-->
+            <!--app:progressTextSize="35"-->
+            <!--app:showMark="true"-->
+            <!--app:showProgress="true"-->
+            <!--app:startAngle="-225"-->
+            <!--app:startColor="0xFFFFF314"-->
+            <!--app:startValue="0" />-->
+
+        <Button
+            android:id="@+id/btnNext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Next"
+            />
+        <!--android:layout_below="@+id/seek_arc"-->
+
+        <!--<com.xw.repo.BubbleSeekBar-->
         <!--android:id="@+id/seekBar"-->
         <!--android:layout_width="match_parent"-->
         <!--android:layout_height="200dp"-->
@@ -85,6 +119,4 @@
         <!--app:bsb_track_color="#39796b" />-->
 
 
-</RelativeLayout>
-
-</layout>
+    </RelativeLayout>

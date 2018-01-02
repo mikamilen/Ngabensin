@@ -1,45 +1,63 @@
 package com.example.root.ngabensin;
 
-import android.databinding.DataBindingUtil;
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.TextView;
+import android.view.View;
+import android.widget.Button;
+import android.widget.SeekBar;
 
-import com.example.root.ngabensin.databinding.ActivityMainBinding;
-import com.xw.repo.BubbleSeekBar;
+import com.example.root.ngabensin.fuelgauge.FuelGaugeView;
+
+import butterknife.ButterKnife;
+import butterknife.InjectView;
+import butterknife.OnClick;
+
+import com.example.root.ngabensin.nearbyplaces.MapsActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    private ActivityMainBinding mBinding;
+    Button button;
+    @InjectView(R.id.seekBar) SeekBar mSeekbar;
+    @InjectView(R.id.fuelGaugeView) FuelGaugeView mFuelGaugeView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        mBinding = DataBindingUtil.setContentView(this, R.layout.activity_main);
-        mBinding.txtView.setText("");
-//        BubbleSeekBar bubbleSeekBar = (BubbleSeekBar)findViewById(R.id.seekBar);
+        setContentView(R.layout.activity_main);
 
-//        SpeedView speedometer = (SpeedView) findViewById(R.id.speedView);
-//
-//// move to 50 Km/s
-//        speedometer.speedTo(50);
-//
-//        bubbleSeekBar.setOnProgressChangedListener(new BubbleSeekBar.OnProgressChangedListener() {
-//            @Override
-//            public void onProgressChanged(int progress, float progressFloat) {
-//                textView.setText(String.format("On Change %d", progress));
-//
-//            }
-//
-//            @Override
-//            public void getProgressOnActionUp(int progress, float progressFloat) {
-//
-//            }
-//
-//            @Override
-//            public void getProgressOnFinally(int progress, float progressFloat) {
-//
-//            }
-//        });
+        ButterKnife.inject(this);
+
+        mSeekbar.setProgress(Math.round(mFuelGaugeView.getFuelLevel() * 100));
+        mSeekbar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
+            @Override
+            public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
+                if(fromUser){
+                    float newLevel = (float) progress / 100f;
+                    mFuelGaugeView.setFuelLevel(newLevel);
+                }
+            }
+
+            @Override
+            public void onStartTrackingTouch(SeekBar seekBar) {
+
+            }
+
+            @Override
+            public void onStopTrackingTouch(SeekBar seekBar) {
+
+            }
+        });
+
+        button = (Button)findViewById(R.id.btnNext);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(MainActivity.this, MapsActivity.class);
+                startActivity(i);
+            }
+        });
     }
+
+
 }
