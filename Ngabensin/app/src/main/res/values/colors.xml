@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#F1243E</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#2D373F</color>
+    <color name="colorPrimaryDark">#F1543E</color>
+    <color name="colorAccent">#a3b0b7</color>
 
     <color name="fuel_gauge_background">#e4e4e4</color>
     <color name="needle_color">#0000ff</color>
