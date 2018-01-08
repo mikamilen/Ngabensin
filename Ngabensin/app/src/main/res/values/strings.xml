@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ngabensin</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="fuel">Fuel</string>
+
+    <string name="empty">E</string>
+    <string name="half">1/2</string>
+    <string name="full">F</string>
+
+    <string name="slogan">Make Your Trip Easyer</string>
+</resources>
