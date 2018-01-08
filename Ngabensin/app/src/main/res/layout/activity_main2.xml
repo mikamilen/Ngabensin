@@ -12,13 +12,15 @@
         android:orientation="vertical"
         android:layout_centerInParent="true"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:weightSum="1">
 
         <ImageView
             android:id="@+id/imagevieww"
-            android:layout_width="200dp"
+            android:layout_width="match_parent"
             android:layout_height="200dp"
-            android:src="@mipmap/logongabensin" />
+            android:src="@mipmap/logongabensin"
+            android:layout_weight="0.55" />
 
         <TextView
             android:gravity="center"
@@ -44,11 +46,12 @@
            android:layout_weight="1"
            android:layout_width="0dp"
            android:layout_height="wrap_content"
-           app:shadowColor="@android:color/black"
+           app:shadowColor="@color/colorPrimary"
+           android:textColor="@android:color/white"
            app:shadowEnabled="true"
            app:shadowHeight="5dp"
            app:cornerRadius="4dp"
-           app:buttonColor="@color/btnSignUp"
+           app:buttonColor="@color/colorPrimary"
 
            />
 
@@ -59,12 +62,13 @@
             android:layout_margin="8dp"
             android:layout_weight="1"
             android:layout_width="0dp"
+            android:textColor="@android:color/white"
             android:layout_height="wrap_content"
-            app:shadowColor="@android:color/black"
+            app:shadowColor="@color/colorPrimary"
             app:shadowEnabled="true"
             app:shadowHeight="5dp"
             app:cornerRadius="4dp"
-            app:buttonColor="@color/btnSignActive"
+            app:buttonColor="@color/colorPrimary"
 
             />
 
