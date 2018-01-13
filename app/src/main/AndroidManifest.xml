@@ -48,8 +48,11 @@
         <activity android:name=".SignUp" />
         <activity android:name=".Main2Activity" />
         <activity android:name=".ChooseVehicle" />
+        <activity android:name="."></activity>
         <activity android:name=".nearbyplaces.MapsActivity" />
-        <activity android:name=".SplashScreen"></activity>
+        <activity android:name=".SplashScreen">
+
+        </activity>
     </application>
 
 </manifest>

@@ -39,8 +39,8 @@ public class ChooseVehicle extends AppCompatActivity {
 
     private List<FueltripModel> getImage() {
         List<FueltripModel> models = new ArrayList<>();
-        models.add(new FueltripModel(R.drawable.ic_mr_button_connecting_06_dark, "Hello"));
-        models.add(new FueltripModel(R.drawable.ic_mr_button_connecting_06_dark, "Hello1"));
+        models.add(new FueltripModel(R.drawable.motornew, "Hello"));
+        models.add(new FueltripModel(R.drawable.motornew, "Hello1"));
         models.add(new FueltripModel(R.drawable.ic_mr_button_connecting_06_dark, "Hello2"));
         return models;
     }

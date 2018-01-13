@@ -6,6 +6,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.example.root.ngabensin.Vechile.MyVechile;
+import com.example.root.ngabensin.Vechile.Vechile;
+
 public class MainMenu extends AppCompatActivity {
 Button btnMyFuel , btnFuelCost;
     @Override
@@ -22,13 +25,13 @@ Button btnMyFuel , btnFuelCost;
             }
         });
 
-//        btnFuelCost = (Button)findViewById(R.id.btnFuelCost);
-//        btnFuelCost.setOnClickListener(new View.OnClickListener() {
-//            @Override
-////            public void onClick(View v) {
-////                Intent intent = new Intent(MainMenu.this,ChooseVehicle.class);
-////                startActivity(intent);
-////            }
-//        });
+        btnFuelCost = (Button)findViewById(R.id.btnFuelCost);
+        btnFuelCost.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainMenu.this, MyVechile.class);
+                startActivity(intent);
+            }
+        });
     }
 }
