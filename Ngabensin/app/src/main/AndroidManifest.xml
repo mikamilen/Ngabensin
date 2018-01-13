@@ -43,13 +43,17 @@
         <activity
             android:name=".ChooseFuel"
             android:label="Choose Fuel"
-            android:theme="@style/Bar"/>
+            android:theme="@style/Bar" />
         <activity android:name=".SignIn" />
         <activity android:name=".SignUp" />
         <activity android:name=".Main2Activity" />
         <activity android:name=".MainMenu" />
         <activity android:name=".nearbyplaces.MapsActivity" />
-
+        <activity android:name=".Check_FuelCost" />
+        <activity
+            android:name=".chose_fuel"
+            android:label="@string/title_activity_chose_fuel"
+            android:theme="@style/NoBar"></activity>
     </application>
 
 </manifest>

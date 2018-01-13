@@ -15,5 +15,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="NoBar.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="NoBar.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
 
 </resources>

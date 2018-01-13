@@ -8,4 +8,20 @@
     <string name="full">F</string>
 
     <string name="slogan">Make Your Trip Easyer</string>
+
+    <string-array name="spinner_array">
+        <item>Pilih Negara</item>
+        <item>Indonesia </item>
+        <item>Malaysia</item>
+        <item>Jepang</item>
+        <item>Amerika</item>
+        <item>Singapura</item>
+
+    </string-array>
+    <string name="title_activity_chose_fuel">chose_fuel</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
