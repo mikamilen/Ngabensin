@@ -90,8 +90,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         txtDistance = (TextView)findViewById(R.id.distance);
         txtDuration = (TextView)findViewById(R.id.duration);
-        txtCurrentLoc = (TextView)findViewById(R.id.curentLocation);
-        txtToLoc = (TextView)findViewById(R.id.toLocation);
+        txtCurrentLoc = (EditText)findViewById(R.id.curentLocation);
+        txtToLoc = (EditText)findViewById(R.id.toLocation);
         relativeLocationInfo = (RelativeLayout)findViewById(R.id.locationInfo);
 
 
@@ -281,12 +281,12 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         GetNearbyPlacesData getNearbyPlacesData = new GetNearbyPlacesData();
 
         switch (v.getId()) {
-            case R.id.B_search: {
+            case R.id.B_submit: {
                 if(latLngList.size() > 0){
                     refreshMap(mMap);
                     latLngList.clear();
                 }
-                EditText tf_location = (EditText) findViewById(R.id.TF_location);
+                EditText tf_location = (EditText) findViewById(R.id.toLocation);
                 String location = tf_location.getText().toString();
                 List<Address> addressList = null;
                 MarkerOptions mo = new MarkerOptions();
