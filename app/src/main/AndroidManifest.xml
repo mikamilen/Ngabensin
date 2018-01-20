@@ -22,7 +22,7 @@
         android:theme="@style/NoBar">
 
         <!-- <activity android:name=".Main2Activity"/> -->
-        <activity android:name=".MainMenu">
+        <activity android:name=".SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -49,12 +49,17 @@
         <activity android:name=".SignUp" />
         <activity android:name=".Main2Activity" />
         <activity android:name=".ChooseVehicle" />
+
         <activity android:name=".Vechile.Vechile" />
         <activity android:name=".Vechile.FrmVechile" />
         <activity android:name=".Vechile.VechileList" />
         <activity android:name=".nearbyplaces.MapsActivity" />
-        <activity android:name=".SplashScreen"></activity>
         <activity android:name=".FuelCost"></activity>
+        <activity android:name=".MainMenu" />
+
+
+
+
     </application>
 
 </manifest>

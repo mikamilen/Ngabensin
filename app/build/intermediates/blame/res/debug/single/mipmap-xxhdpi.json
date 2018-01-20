@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/adit/Ngabensin/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/logo.png",
+        "source": "/home/adit/Ngabensin/app/src/main/res/mipmap-xxhdpi/logo.png"
+    }
+]
