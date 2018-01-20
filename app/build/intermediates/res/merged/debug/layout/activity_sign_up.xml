@@ -1,86 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
+<ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.example.root.ngabensin.SignUp"
-    android:background="@color/ngabensinPrimary">   `
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fitsSystemWindows="true">
 
     <LinearLayout
+        android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:layout_marginLeft="8dp"
-        android:layout_marginRight="8dp"
-        android:layout_centerInParent="true">
+        android:paddingTop="56dp"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp">
 
+        <ImageView android:src="@mipmap/logongabensin"
+            android:layout_width="wrap_content"
+            android:layout_height="72dp"
+            android:layout_marginBottom="24dp"
+            android:layout_gravity="center_horizontal" />
 
-        <com.rengwuxian.materialedittext.MaterialEditText
+        <!--  Name Label -->
+        <android.support.design.widget.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/edtPhone"
-            android:hint="Phone Number"
-            android:textColorHint="@android:color/black"
-            android:text="087822714544"
-            android:textColor="@android:color/black"
-            android:textSize="34sp"
-            android:inputType="phone"
-            app:met_baseColor="@android:color/black"
-            app:met_maxCharacters="13"
-            app:met_primaryColor="@android:color/black"
-            app:met_singleLineEllipsis="true"/>
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp">
+            <EditText android:id="@+id/input_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textCapWords"
+                android:hint="Name" />
+        </android.support.design.widget.TextInputLayout>
 
-
-        <com.rengwuxian.materialedittext.MaterialEditText
+        <!-- Email Label -->
+        <android.support.design.widget.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/edtName"
-            android:hint="Name"
-            android:textColorHint="@android:color/black"
-            android:text="Arya Stark"
-            android:textColor="@android:color/black"
-            android:textSize="34sp"
-            android:inputType="text"
-            app:met_baseColor="@android:color/black"
-            app:met_maxCharacters="13"
-            app:met_primaryColor="@android:color/black"
-            app:met_singleLineEllipsis="true"/>
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp">
+            <EditText android:id="@+id/input_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textEmailAddress"
+                android:hint="Email" />
+        </android.support.design.widget.TextInputLayout>
 
-        <com.rengwuxian.materialedittext.MaterialEditText
+        <!-- Password Label -->
+        <android.support.design.widget.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/edtPassword"
-            android:hint="Password"
-            android:textColorHint="@android:color/black"
-            android:text="123456"
-            android:textColor="@android:color/black"
-            android:textSize="34sp"
-            android:inputType="textPassword"
-            app:met_baseColor="@android:color/black"
-            app:met_maxCharacters="13"
-            app:met_primaryColor="@android:color/black"
-            app:met_singleLineEllipsis="true"/>
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp">
+            <EditText android:id="@+id/input_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:hint="Password"/>
+        </android.support.design.widget.TextInputLayout>
+
+        <!-- Signup Button -->
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btn_signup"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="24dp"
+            android:padding="12dp"
+            android:text="Create Account"/>
+
+        <TextView android:id="@+id/link_login"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:text="Already a member? Login"
+            android:gravity="center"
+            android:textSize="16dip"/>
 
     </LinearLayout>
-
-    <info.hoang8f.widget.FButton
-        android:id="@+id/btnSignUp"
-        android:text="Sign Up"
-        android:layout_marginLeft="8dp"
-        android:layout_marginRight="8dp"
-        android:layout_margin="8dp"
-        android:layout_weight="1"
-        android:layout_width="match_parent"
-        android:layout_alignParentBottom="true"
-        android:layout_height="wrap_content"
-        app:shadowColor="@android:color/black"
-        app:shadowEnabled="true"
-        app:shadowHeight="5dp"
-        app:cornerRadius="4dp"
-        app:buttonColor="@color/btnSignActive"
-
-        />
-
-</RelativeLayout>
+</ScrollView>

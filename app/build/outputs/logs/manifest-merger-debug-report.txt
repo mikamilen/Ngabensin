@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:2:1-65:12
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:2:1-68:12
 	package
 		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:3:5-41
 		INJECTED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml
@@ -58,8 +58,20 @@ uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:15:5-80
 	android:name
 		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:15:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:18:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:19:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:20:22-69
 application
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:17:5-63:19
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:22:5-66:19
 MERGED from [com.xw.repo:bubbleseekbar:3.5-lite] /home/adit/.android/build-cache/da21a17e472e34740783e066a2511a04fcb9b7af/output/AndroidManifest.xml:11:5-15:19
 MERGED from [com.google.android.gms:play-services:11.0.4] /home/adit/.android/build-cache/66b2616d580fd0b4228a329ae1094fa330bb9db4/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/adit/.android/build-cache/345fdd8035190039ba0934aede7f704eb4bd7957/output/AndroidManifest.xml:23:5-26:19
@@ -109,10 +121,12 @@ MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/adit/.android/build-
 MERGED from [com.google.firebase:firebase-common:11.0.4] /home/adit/.android/build-cache/078d9b22f8b199bc1abf8a33dc13d773c1663712/output/AndroidManifest.xml:4:5-7:19
 MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/adit/.android/build-cache/5fd28d2480efd45ef3e3794f4d8225485e695545/output/AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/adit/.android/build-cache/dc688c3b419f4ae42e6d20ce13b6e1116179c6b6/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] /home/adit/.android/build-cache/c16feb4b852548c29347e1ac108ddf55bf8ed711/output/AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:design:25.3.1] /home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/adit/.android/build-cache/eeb0e42a36dc08d513db847047a3c52b9d126341/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/adit/.android/build-cache/8128cc05521a937209789a0a806ba1297baac8a7/output/AndroidManifest.xml:26:5-20
-MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] /home/adit/.android/build-cache/c16feb4b852548c29347e1ac108ddf55bf8ed711/output/AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:transition:25.3.1] /home/adit/.android/build-cache/7e8ffc2a1c10a60398572fcd9e4f4d14f3fabeef/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-v4:25.3.1] /home/adit/.android/build-cache/41b22c0ebec396d56fb6b74720fdc41251ce92b0/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] /home/adit/.android/build-cache/26f1e52a28a826369753bec7d0421ca972d1a536/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/adit/.android/build-cache/9122e0e1c11b34d903596a3673ddf6500d018992/output/AndroidManifest.xml:29:5-20
@@ -120,86 +134,85 @@ MERGED from [com.android.support:support-core-ui:25.3.1] /home/adit/.android/bui
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/adit/.android/build-cache/6eabefee66edaf517eac1370d2ee84109ef201f8/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /home/adit/.android/build-cache/3351fd9b913cff5b95dd5d8c934db0f65f3e3180/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:20:9-41
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:25:9-41
 	android:supportsRtl
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:21:9-35
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:26:9-35
 	android:allowBackup
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:18:9-35
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:23:9-35
 	android:icon
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:19:9-45
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:24:9-45
 	android:theme
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:22:9-37
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:27:9-37
 activity#com.example.root.ngabensin.SplashScreen
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:25:9-31:20
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:30:9-36:20
 	android:name
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:25:19-47
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:30:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:26:13-30:29
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:27:17-69
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:27:25-66
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:29:17-77
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:29:27-74
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:34:27-74
 meta-data#com.google.android.geo.API_KEY
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:40:9-42:55
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:45:9-47:55
 	android:value
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:42:13-52
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:47:13-52
 	android:name
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:41:13-58
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:46:13-58
 activity#com.example.root.ngabensin.ChooseFuel
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:44:9-47:42
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:49:9-52:42
 	android:label
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:46:13-40
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:51:13-40
 	android:theme
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:47:13-39
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:52:13-39
 	android:name
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:45:13-39
-activity#com.example.root.ngabensin.SignIn
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:48:9-44
-	android:name
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:48:19-41
-activity#com.example.root.ngabensin.SignUp
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:49:9-44
-	android:name
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:49:19-41
-activity#com.example.root.ngabensin.Main2Activity
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:50:9-51
-	android:name
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:50:19-48
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:50:13-39
 activity#com.example.root.ngabensin.ChooseVehicle
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:51:9-51
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:53:9-51
 	android:name
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:51:19-48
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:53:19-48
 activity#com.example.root.ngabensin.Vechile.Vechile
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:53:9-53
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:54:9-53
 	android:name
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:53:19-50
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:54:19-50
 activity#com.example.root.ngabensin.Vechile.FrmVechile
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:54:9-56
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:55:9-56
 	android:name
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:54:19-53
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:55:19-53
 activity#com.example.root.ngabensin.Vechile.VechileList
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:55:9-57
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:56:9-57
 	android:name
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:55:19-54
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:56:19-54
 activity#com.example.root.ngabensin.nearbyplaces.MapsActivity
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:56:9-63
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:57:9-63
 	android:name
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:56:19-60
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:57:19-60
 activity#com.example.root.ngabensin.FuelCost
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:57:9-55
-	android:name
-		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:57:19-43
-activity#com.example.root.ngabensin.MainMenu
 ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:58:9-46
 	android:name
 		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:58:19-43
+activity#com.example.root.ngabensin.MainMenu
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:59:9-46
+	android:name
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:59:19-43
+activity#com.example.root.ngabensin.LoginActivity
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:60:9-62:60
+	android:label
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:62:13-57
+	android:name
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:61:13-42
+activity#com.example.root.ngabensin.SignUpActivity
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:63:9-65:71
+	android:label
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:65:13-59
+	android:name
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:64:13-43
 uses-sdk
 INJECTED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:multidex:1.0.1] /home/adit/.android/build-cache/ff8b9586d127ad33cb7c09efa7bb5b8f01914504/output/AndroidManifest.xml:18:5-42
 MERGED from [com.xw.repo:bubbleseekbar:3.5-lite] /home/adit/.android/build-cache/da21a17e472e34740783e066a2511a04fcb9b7af/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.gms:play-services:11.0.4] /home/adit/.android/build-cache/66b2616d580fd0b4228a329ae1094fa330bb9db4/output/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-ads:11.0.4] /home/adit/.android/build-cache/95576a83707361cb4bff16ff202eccf8fca298f9/output/AndroidManifest.xml:17:5-43
@@ -261,20 +274,22 @@ MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/adit/.andr
 MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/adit/.android/build-cache/dc688c3b419f4ae42e6d20ce13b6e1116179c6b6/output/AndroidManifest.xml:17:5-43
 MERGED from [info.hoang8f:fbutton:1.0.5] /home/adit/.android/build-cache/d9a85afee028e244f60216f92ddcd399a9d0a1bb/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /home/adit/.android/build-cache/2f3ffd20225aa21994593b4589710ded2e776b2d/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] /home/adit/.android/build-cache/c16feb4b852548c29347e1ac108ddf55bf8ed711/output/AndroidManifest.xml:2:5-72
+MERGED from [com.jaredrummler:material-spinner:1.2.4] /home/adit/.android/build-cache/89c680c613328bf1699b3cc80386f9efad647a78/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:25.3.1] /home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/adit/.android/build-cache/eeb0e42a36dc08d513db847047a3c52b9d126341/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/adit/.android/build-cache/8128cc05521a937209789a0a806ba1297baac8a7/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/adit/.android/build-cache/8e8f416d4ea96dba8b037d2b4b79a23e63384b11/output/AndroidManifest.xml:20:5-43
-MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] /home/adit/.android/build-cache/c16feb4b852548c29347e1ac108ddf55bf8ed711/output/AndroidManifest.xml:2:5-72
+MERGED from [com.android.support:transition:25.3.1] /home/adit/.android/build-cache/7e8ffc2a1c10a60398572fcd9e4f4d14f3fabeef/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:25.3.1] /home/adit/.android/build-cache/41b22c0ebec396d56fb6b74720fdc41251ce92b0/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] /home/adit/.android/build-cache/26f1e52a28a826369753bec7d0421ca972d1a536/output/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/adit/.android/build-cache/9122e0e1c11b34d903596a3673ddf6500d018992/output/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-ui:25.3.1] /home/adit/.android/build-cache/e62b67f90d485a1323c7207859ba6c1f5ad45dfd/output/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/adit/.android/build-cache/6eabefee66edaf517eac1370d2ee84109ef201f8/output/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:25.3.1] /home/adit/.android/build-cache/3351fd9b913cff5b95dd5d8c934db0f65f3e3180/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.jaredrummler:material-spinner:1.2.4] /home/adit/.android/build-cache/89c680c613328bf1699b3cc80386f9efad647a78/output/AndroidManifest.xml:6:5-8:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:design:25.3.1] /home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml
 		INJECTED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml
@@ -418,10 +433,12 @@ MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/adit/.a
 		ADDED from [com.google.maps.android:android-maps-utils:0.4.4] /home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/AndroidManifest.xml:9:13-58
 meta-data#android.support.VERSION
 ADDED from [com.android.support:cardview-v7:25.3.1] /home/adit/.android/build-cache/bd6daebab281492690e0aa9e2feb451290b1f79e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] /home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/adit/.android/build-cache/eeb0e42a36dc08d513db847047a3c52b9d126341/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/adit/.android/build-cache/8128cc05521a937209789a0a806ba1297baac8a7/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/adit/.android/build-cache/8e8f416d4ea96dba8b037d2b4b79a23e63384b11/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/adit/.android/build-cache/7e8ffc2a1c10a60398572fcd9e4f4d14f3fabeef/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-v4:25.3.1] /home/adit/.android/build-cache/41b22c0ebec396d56fb6b74720fdc41251ce92b0/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-fragment:25.3.1] /home/adit/.android/build-cache/26f1e52a28a826369753bec7d0421ca972d1a536/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/adit/.android/build-cache/9122e0e1c11b34d903596a3673ddf6500d018992/output/AndroidManifest.xml:25:5-27:34

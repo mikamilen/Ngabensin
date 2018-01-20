@@ -20,6 +20,11 @@
     <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
     <!-- Optional permission for Analytics to run. -->
     <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Permissions required for GCM -->
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
@@ -69,9 +74,6 @@
             android:name="com.example.root.ngabensin.ChooseFuel"
             android:label="Choose Fuel"
             android:theme="@style/Bar" />
-        <activity android:name="com.example.root.ngabensin.SignIn" />
-        <activity android:name="com.example.root.ngabensin.SignUp" />
-        <activity android:name="com.example.root.ngabensin.Main2Activity" />
         <activity android:name="com.example.root.ngabensin.ChooseVehicle" />
         <activity android:name="com.example.root.ngabensin.Vechile.Vechile" />
         <activity android:name="com.example.root.ngabensin.Vechile.FrmVechile" />
@@ -79,9 +81,12 @@
         <activity android:name="com.example.root.ngabensin.nearbyplaces.MapsActivity" />
         <activity android:name="com.example.root.ngabensin.FuelCost" />
         <activity android:name="com.example.root.ngabensin.MainMenu" />
-        <activity android:name="com.example.root.ngabensin.nearbyplaces.MapsActivity" >
-        </activity>
-
+        <activity
+            android:name="com.example.root.ngabensin.LoginActivity"
+            android:label="@string/title_activity_login" />
+        <activity
+            android:name="com.example.root.ngabensin.SignUpActivity"
+            android:label="@string/title_activity_sign_up" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

@@ -23,7 +23,8 @@
         android:layout_width="300dp"
         android:textSize="18dp"
         android:layout_gravity="center"
-        android:layout_height="50dp"/>
+        android:layout_height="50dp"
+        />
 
     <android.support.v7.widget.CardView
         android:layout_width="300dp"
@@ -32,15 +33,16 @@
         android:layout_marginTop="50dp"
         android:background="@color/colorPrimary"
         app:cardCornerRadius="0dp"
-        app:cardElevation="5dp">
+        app:cardElevation="2dp">
 
         <LinearLayout
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
 
             <LinearLayout
-                android:layout_width="wrap_content"
+                android:layout_margin="25dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
 
@@ -48,32 +50,63 @@
                     android:id="@+id/price"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Price"
-                    android:textColor="@color/colorPrimaryDark" />
+                    android:text="Price :"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="20dp" />
 
                 <TextView
                     android:id="@+id/hargaBensin"
+                    android:textSize="20dp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="7000 IDR/L" />
+                    android:layout_marginLeft="93dp"
+                    android:text="- " />
+                <TextView
+                    android:textSize="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="2dp"
+                    android:text="@string/Rp" />
             </LinearLayout>
 
             <LinearLayout
-                android:layout_width="wrap_content"
+                android:layout_margin="25dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
 
                 <TextView
+                    android:textSize="20dp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Type of Fuel"
-                    android:textColor="@color/colorPrimaryDark" />
+                    android:text="Type of Fuel :"
+                    android:textColor="@color/colorPrimary" />
 
                 <TextView
+                    android:textSize="20dp"
                     android:id="@+id/tipeBensin"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:layout_marginLeft="105dp"
                     android:text="92" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="40dp"
+                android:background="@color/colorPrimary">
+
+                <TextView
+                    android:layout_margin="20dp"
+                    android:textSize="20dp"
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@android:color/white"
+                    android:text="Last Update : 20/01/2018"/>
+
+
             </LinearLayout>
 
         </LinearLayout>

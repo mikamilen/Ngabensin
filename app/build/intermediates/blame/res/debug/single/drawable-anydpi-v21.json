@@ -1,10 +1,26 @@
 [
     {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_search_black_24dp.xml",
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search_black_24dp.xml"
     },
     {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/facebook_vector.xml",
+        "source": "/home/adit/.android/build-cache/b4e50dc748bad8f25158a394dcf6dc32007449a9/output/res/drawable-anydpi-v21/facebook_vector.xml"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ms__menu_down.xml",
         "source": "/home/adit/.android/build-cache/89c680c613328bf1699b3cc80386f9efad647a78/output/res/drawable-anydpi-v21/ms__menu_down.xml"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/google_plus_vector.xml",
+        "source": "/home/adit/.android/build-cache/b4e50dc748bad8f25158a394dcf6dc32007449a9/output/res/drawable-anydpi-v21/google_plus_vector.xml"
     }
 ]

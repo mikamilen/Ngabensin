@@ -18,7 +18,7 @@ public class SplashScreen extends AppCompatActivity {
         btnStart.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent Start = new Intent(SplashScreen.this,MainMenu.class);
+                Intent Start = new Intent(SplashScreen.this,LoginActivity.class);
                 startActivity(Start);
             }
         });

@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/google_plus_vector.png",
+        "source": "/home/adit/.android/build-cache/b4e50dc748bad8f25158a394dcf6dc32007449a9/output/res/drawable-ldpi-v4/google_plus_vector.png"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/facebook_vector.png",
+        "source": "/home/adit/.android/build-cache/b4e50dc748bad8f25158a394dcf6dc32007449a9/output/res/drawable-ldpi-v4/facebook_vector.png"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ms__menu_down.png",
         "source": "/home/adit/.android/build-cache/89c680c613328bf1699b3cc80386f9efad647a78/output/res/drawable-ldpi-v4/ms__menu_down.png"
     }
