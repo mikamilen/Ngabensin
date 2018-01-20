@@ -29,7 +29,7 @@ Button btnMyFuel , btnFuelCost;
         btnFuelCost.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainMenu.this, MyVechile.class);
+                Intent intent = new Intent(MainMenu.this, FuelCost.class);
                 startActivity(intent);
             }
         });

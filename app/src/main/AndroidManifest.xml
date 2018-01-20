@@ -12,6 +12,7 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"
@@ -43,16 +44,17 @@
         <activity
             android:name=".ChooseFuel"
             android:label="Choose Fuel"
-            android:theme="@style/Bar"/>
+            android:theme="@style/Bar" />
         <activity android:name=".SignIn" />
         <activity android:name=".SignUp" />
         <activity android:name=".Main2Activity" />
         <activity android:name=".ChooseVehicle" />
-        <activity android:name="."></activity>
+        <activity android:name=".Vechile.Vechile" />
+        <activity android:name=".Vechile.FrmVechile" />
+        <activity android:name=".Vechile.VechileList" />
         <activity android:name=".nearbyplaces.MapsActivity" />
-        <activity android:name=".SplashScreen">
-
-        </activity>
+        <activity android:name=".SplashScreen"></activity>
+        <activity android:name=".FuelCost"></activity>
     </application>
 
 </manifest>
