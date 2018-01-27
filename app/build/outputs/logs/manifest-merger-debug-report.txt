@@ -122,6 +122,7 @@ MERGED from [com.google.firebase:firebase-common:11.0.4] /home/adit/.android/bui
 MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/adit/.android/build-cache/5fd28d2480efd45ef3e3794f4d8225485e695545/output/AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/adit/.android/build-cache/dc688c3b419f4ae42e6d20ce13b6e1116179c6b6/output/AndroidManifest.xml:19:5-21:19
 MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] /home/adit/.android/build-cache/c16feb4b852548c29347e1ac108ddf55bf8ed711/output/AndroidManifest.xml:4:5-19
+MERGED from [com.aurelhubert:ahbottomnavigation:2.1.0] /home/adit/.android/build-cache/99c7712e9ef835aa4eee5ca8e36608557b658508/output/AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:design:25.3.1] /home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/adit/.android/build-cache/eeb0e42a36dc08d513db847047a3c52b9d126341/output/AndroidManifest.xml:26:5-20
@@ -276,6 +277,7 @@ MERGED from [info.hoang8f:fbutton:1.0.5] /home/adit/.android/build-cache/d9a85af
 MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /home/adit/.android/build-cache/2f3ffd20225aa21994593b4589710ded2e776b2d/output/AndroidManifest.xml:6:5-8:41
 MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] /home/adit/.android/build-cache/c16feb4b852548c29347e1ac108ddf55bf8ed711/output/AndroidManifest.xml:2:5-72
 MERGED from [com.jaredrummler:material-spinner:1.2.4] /home/adit/.android/build-cache/89c680c613328bf1699b3cc80386f9efad647a78/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.1.0] /home/adit/.android/build-cache/99c7712e9ef835aa4eee5ca8e36608557b658508/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:25.3.1] /home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/adit/.android/build-cache/eeb0e42a36dc08d513db847047a3c52b9d126341/output/AndroidManifest.xml:20:5-44

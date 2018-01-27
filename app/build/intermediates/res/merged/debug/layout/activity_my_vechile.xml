@@ -25,6 +25,5 @@
         android:text="tambah"
         android:background="@color/colorPrimaryDark"
         android:textColor="@color/colorAccent"
-        android:layout_alignBottom="@+id/icon"
         android:layout_alignParentBottom="true"/>
 </RelativeLayout>

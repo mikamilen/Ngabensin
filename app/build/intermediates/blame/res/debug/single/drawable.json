@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/com_facebook_favicon_blue.xml",
-        "source": "/home/adit/.android/build-cache/b0b118b2d15600d76c7b26e779c40b014d7d3c49/output/res/drawable/com_facebook_favicon_blue.xml"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_pause.xml",
         "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_notification_pause.xml"
     },
@@ -32,10 +28,6 @@
         "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_button_connecting_light.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_background.xml",
-        "source": "/home/adit/.android/build-cache/b0b118b2d15600d76c7b26e779c40b014d7d3c49/output/res/drawable/com_facebook_button_background.xml"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
         "source": "/home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/res/drawable/design_bottom_navigation_item_background.xml"
     },
@@ -44,24 +36,16 @@
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_light.xml",
-        "source": "/home/adit/.android/build-cache/c4c5bbde39ff37e746d302f49636cf6e902dab01/output/res/drawable/tooltip_frame_light.xml"
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
+        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_skip_ad_label_border.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
         "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_skip_ad_label_border.xml"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_selector.xml",
-        "source": "/home/adit/.android/build-cache/3af6800ec6614ad395baee532b5685ddd09586f5/output/res/drawable/messenger_button_blue_bg_selector.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
@@ -82,10 +66,6 @@
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
         "source": "/home/adit/.android/build-cache/50e81e0d33b415e23a4a11710872f2461c70f28d/output/res/drawable/cast_ic_notification_connecting.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/com_facebook_auth_dialog_cancel_background.xml",
-        "source": "/home/adit/.android/build-cache/b0b118b2d15600d76c7b26e779c40b014d7d3c49/output/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
@@ -114,6 +94,10 @@
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/item_background.xml",
+        "source": "/home/adit/.android/build-cache/99c7712e9ef835aa4eee5ca8e36608557b658508/output/res/drawable/item_background.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
@@ -152,10 +136,6 @@
         "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_dialog_close_dark.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml",
-        "source": "/home/adit/.android/build-cache/c4c5bbde39ff37e746d302f49636cf6e902dab01/output/res/drawable/tooltip_frame_dark.xml"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
         "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_stop.xml"
     },
@@ -182,10 +162,6 @@
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_selector.xml",
-        "source": "/home/adit/.android/build-cache/3af6800ec6614ad395baee532b5685ddd09586f5/output/res/drawable/messenger_button_white_bg_selector.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_dialog_close_light.xml",
@@ -220,12 +196,12 @@
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_play.xml"
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/notification_background.xml",
+        "source": "/home/adit/.android/build-cache/99c7712e9ef835aa4eee5ca8e36608557b658508/output/res/drawable/notification_background.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/button_effect.xml",
-        "source": "/home/adit/.android/build-cache/b4e50dc748bad8f25158a394dcf6dc32007449a9/output/res/drawable/button_effect.xml"
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
+        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_play.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
@@ -264,20 +240,8 @@
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/com_facebook_send_button_icon.xml",
-        "source": "/home/adit/.android/build-cache/1a178e0b3ea38ee3bd3205723ca577de1ba3944b/output/res/drawable/com_facebook_send_button_icon.xml"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
         "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_background.xml",
-        "source": "/home/adit/.android/build-cache/937da3dcc8b15483628a4fd36f8d5297614fdd94/output/res/drawable/com_facebook_button_login_background.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_round.xml",
-        "source": "/home/adit/.android/build-cache/3af6800ec6614ad395baee532b5685ddd09586f5/output/res/drawable/messenger_button_white_bg_round.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
@@ -308,14 +272,6 @@
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_round.xml",
-        "source": "/home/adit/.android/build-cache/3af6800ec6614ad395baee532b5685ddd09586f5/output/res/drawable/messenger_button_blue_bg_round.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_send_background.xml",
-        "source": "/home/adit/.android/build-cache/1a178e0b3ea38ee3bd3205723ca577de1ba3944b/output/res/drawable/com_facebook_button_send_background.xml"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/notification_icon_background.xml"
     },
@@ -326,10 +282,6 @@
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_group_collapse.xml",
         "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_group_collapse.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_icon.xml",
-        "source": "/home/adit/.android/build-cache/b0b118b2d15600d76c7b26e779c40b014d7d3c49/output/res/drawable/com_facebook_button_icon.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
@@ -384,14 +336,6 @@
         "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_notification_disconnect.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/com_facebook_auth_dialog_background.xml",
-        "source": "/home/adit/.android/build-cache/b0b118b2d15600d76c7b26e779c40b014d7d3c49/output/res/drawable/com_facebook_auth_dialog_background.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_silver_background.xml",
-        "source": "/home/adit/.android/build-cache/937da3dcc8b15483628a4fd36f8d5297614fdd94/output/res/drawable/com_facebook_button_login_silver_background.xml"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_btn_radio_material.xml"
     },
@@ -420,20 +364,16 @@
         "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_notification_play.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_dialog_material_background.xml"
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_media_play_light.xml",
+        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_media_play_light.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_media_play_light.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_media_play_light.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/com_facebook_auth_dialog_header_background.xml",
-        "source": "/home/adit/.android/build-cache/b0b118b2d15600d76c7b26e779c40b014d7d3c49/output/res/drawable/com_facebook_auth_dialog_header_background.xml"
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_media_pause_dark.xml",
@@ -466,10 +406,6 @@
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_like_background.xml",
-        "source": "/home/adit/.android/build-cache/b0b118b2d15600d76c7b26e779c40b014d7d3c49/output/res/drawable/com_facebook_button_like_background.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
@@ -550,10 +486,6 @@
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_button_connecting_dark.xml",
         "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_button_connecting_dark.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_logo.xml",
-        "source": "/home/adit/.android/build-cache/937da3dcc8b15483628a4fd36f8d5297614fdd94/output/res/drawable/com_facebook_button_login_logo.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",

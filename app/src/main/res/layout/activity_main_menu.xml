@@ -8,84 +8,34 @@
     android:background="@color/ngabensinPrimary">
 
 
-    <LinearLayout
-        android:orientation="vertical"
-        android:layout_centerInParent="true"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/linearLayout">
 
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="What do you want to do?"
-            android:textSize="25dp"
-            android:textColor="@color/colorPrimary"/>
-
-    </LinearLayout>
-
-    <LinearLayout
-        android:orientation="vertical"
-        android:layout_alignParentBottom="true"
-        android:weightSum="2"
+    <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/container"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="match_parent"
+        tools:context="info.androidhive.bottomnavigation.MainActivity">
 
-
-
-
-        <info.hoang8f.widget.FButton
-            android:id="@+id/btnMyFuel"
-            android:text="check my fuel"
-            android:layout_margin="20dp"
-            android:layout_marginLeft="8dp"
-            android:layout_marginRight="8dp"
-            android:layout_weight="1"
+        <FrameLayout
+            android:id="@+id/frame_container"
+            android:paddingBottom="?actionBarSize"
             android:layout_width="match_parent"
-            android:layout_alignParentBottom="true"
-            android:layout_height="wrap_content"
-            app:shadowColor="@color/colorPrimary"
-            app:shadowEnabled="true"
-            app:shadowHeight="5dp"
-            app:cornerRadius="1dp"
-            android:textSize="24dp"
-            android:minHeight="70dp"
-            android:textColor="@android:color/white"
-            app:buttonColor="@color/colorPrimary"/>
+            android:layout_height="match_parent"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior" />
 
-
-        <info.hoang8f.widget.FButton
-            android:id="@+id/btnFuelCost"
-            android:text="check fuel cost"
-            android:layout_margin="20dp"
-            android:layout_marginLeft="8dp"
-            android:layout_marginRight="8dp"
-            android:layout_weight="1"
+        <android.support.design.widget.BottomNavigationView
+            android:id="@+id/navigation"
             android:layout_width="match_parent"
-            android:layout_alignParentBottom="true"
             android:layout_height="wrap_content"
-            app:shadowColor="@color/colorPrimary"
-            app:shadowEnabled="true"
-            app:shadowHeight="5dp"
-            app:cornerRadius="1dp"
-            android:textSize="24dp"
-            android:minHeight="70dp"
-            android:textColor="@android:color/white"
-            app:buttonColor="@color/colorPrimary"/>
+            android:layout_gravity="bottom"
+            android:background="?android:attr/windowBackground"
+            app:itemBackground="@color/colorPrimaryDark"
+            android:foreground="?attr/selectableItemBackground"
+            app:itemIconTint="@android:color/white"
+            app:itemTextColor="@android:color/white"
+            app:menu="@menu/menu" />
 
-
-
-    </LinearLayout>
-
-    <ImageView
-        android:id="@+id/imagevieww"
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        android:src="@mipmap/logongabensin"
-        android:layout_marginTop="38dp"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
-
+    </android.support.design.widget.CoordinatorLayout>
 
 </RelativeLayout>

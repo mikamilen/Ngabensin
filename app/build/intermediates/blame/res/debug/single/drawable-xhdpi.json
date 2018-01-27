@@ -1,10 +1,22 @@
 [
     {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi/direct.png",
+        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xhdpi/direct.png"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi/met_ic_clear.png",
         "source": "/home/adit/.android/build-cache/2f3ffd20225aa21994593b4589710ded2e776b2d/output/res/drawable-xhdpi/met_ic_clear.png"
     },
     {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi/vehicle.png",
+        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xhdpi/vehicle.png"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_search_black_24dp.png",
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi/home.png",
+        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xhdpi/home.png"
     }
 ]

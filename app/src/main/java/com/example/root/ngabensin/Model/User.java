@@ -8,16 +8,20 @@ public class User {
     private String Email;
     private String Name;
     private String Password;
+    private String NameKendaraan;
+    private String JenisKendaraan;
 
 
-    public User() {
+//    public User(String s, String toString, String string) {
+//
+//    }
 
-    }
-
-    public User(String name, String password,String email) {
+    public User(String name, String password,String email ) {
         Name = name;
         Password = password;
         Email = email;
+//        NameKendaraan = nmkendaraan;
+//        JenisKendaraan = jkendaraan;
     }
 
     public String getName() {
@@ -39,7 +43,19 @@ public class User {
     }
     public void setEmail(String email) {Email = email;}
 
+//    public String getNmKendaraan() {
+//        return NameKendaraan;
+//    }
+//    public void setNmKendaraan(String nmkendaraan) {NameKendaraan = nmkendaraan;}
+//
+//
+//    public String getJKendaraan() {
+//        return JenisKendaraan;
+//    }
+//    public void setJkendaraan(String jkendaraan) {JenisKendaraan = jkendaraan;}
 
 
+    public User() {
+    }
 }
 

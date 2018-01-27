@@ -25,7 +25,7 @@ public class SQLiteOperation {
             SQLiteHelper.COLUMN_ID,
             SQLiteHelper.COLUMN_NAMA_KENDARAAN,
             SQLiteHelper.COLUMN_JENIS_KENDARAAN,
-            SQLiteHelper.COLUMN_ICON_KENDARAAN
+//            SQLiteHelper.COLUMN_ICON_KENDARAAN
     };
 
     public SQLiteOperation(Context context){
@@ -45,7 +45,7 @@ public class SQLiteOperation {
         ContentValues values = new ContentValues();
         values.put(SQLiteHelper.COLUMN_NAMA_KENDARAAN,vechileItem.getNmkendaraan());
         values.put(SQLiteHelper.COLUMN_JENIS_KENDARAAN,vechileItem.getJnkendaraan());
-        values.put(SQLiteHelper.COLUMN_ICON_KENDARAAN,vechileItem.getImage());
+//        values.put(SQLiteHelper.COLUMN_ICON_KENDARAAN,vechileItem.getImage());
         long vechileid = database.insert(SQLiteHelper.TABLE_KENDARAAN_KUSTOM,null,values);
         vechileItem.setId(vechileid);
         return vechileItem;
@@ -58,8 +58,8 @@ public class SQLiteOperation {
         if (cursor.moveToFirst()) {
             vechileItem = new VechileItem(Long.parseLong(cursor.getString(0)),
                     cursor.getString(1),
-                    cursor.getString(2),
-                    cursor.getBlob(3));
+                    cursor.getString(2));
+//                    cursor.getBlob(3));
         }
         return vechileItem;
     }
@@ -79,7 +79,7 @@ public class SQLiteOperation {
                 tugas.setId(cursor.getLong(cursor.getColumnIndex(SQLiteHelper.COLUMN_ID)));
                 tugas.setNmkendaraan(cursor.getString(cursor.getColumnIndex(SQLiteHelper.COLUMN_NAMA_KENDARAAN)));
                 tugas.setJnkendaraan(cursor.getString(cursor.getColumnIndex(SQLiteHelper.COLUMN_JENIS_KENDARAAN)));
-                tugas.setImage(cursor.getBlob(cursor.getColumnIndex(SQLiteHelper.COLUMN_ICON_KENDARAAN)));
+//                tugas.setImage(cursor.getBlob(cursor.getColumnIndex(SQLiteHelper.COLUMN_ICON_KENDARAAN)));
                 listvechile.add(tugas);
             }
         }
@@ -102,7 +102,7 @@ public class SQLiteOperation {
         ContentValues values = new ContentValues();
         values.put(SQLiteHelper.COLUMN_NAMA_KENDARAAN,vechileItem.getNmkendaraan());
         values.put(SQLiteHelper.COLUMN_JENIS_KENDARAAN,vechileItem.getJnkendaraan());
-        values.put(SQLiteHelper.COLUMN_ICON_KENDARAAN,vechileItem.getImage());
+//        values.put(SQLiteHelper.COLUMN_ICON_KENDARAAN,vechileItem.getImage());
 
         return database.update(SQLiteHelper.TABLE_KENDARAAN_KUSTOM,values,
                 SQLiteHelper.COLUMN_ID + "=?",new String[]{String.valueOf(vechileItem.getId())});

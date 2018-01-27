@@ -1,7 +1,19 @@
 [
     {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xxhdpi/direct.png",
+        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xxhdpi/direct.png"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_search_black_24dp.png",
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xxhdpi/home.png",
+        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xxhdpi/home.png"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xxhdpi/vehicle.png",
+        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xxhdpi/vehicle.png"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xxhdpi/met_ic_clear.png",

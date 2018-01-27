@@ -49,7 +49,7 @@ public class VechileListAdapter extends BaseAdapter {
     }
 
     private class ViewHolder {
-        ImageView imageView;
+//        ImageView imageView;
         TextView txtName, txtJenis;
     }
 
@@ -65,7 +65,7 @@ public class VechileListAdapter extends BaseAdapter {
         holder.txtName = (TextView) convertView.findViewById(R.id.textName);
         holder.txtJenis = (TextView) convertView.findViewById(R.id.textJenis);
         holder.txtJenis = (TextView) convertView.findViewById(R.id.textJenis);
-        holder.imageView = (ImageView) convertView.findViewById(R.id.imageView);
+//        holder.imageView = (ImageView) convertView.findViewById(R.id.imageView);
 
 
         VechileItem vechileItem = vechilelist.get(position);
@@ -73,9 +73,9 @@ public class VechileListAdapter extends BaseAdapter {
         holder.txtName.setText(vechileItem.getNmkendaraan());
         holder.txtJenis.setText(vechileItem.getJnkendaraan());
 
-        byte[] vechileImage = vechileItem.getImage();
-        Bitmap bitmap = BitmapFactory.decodeByteArray(vechileImage, 0, vechileImage.length);
-        holder.imageView.setImageBitmap(bitmap);
+//        byte[] vechileImage = vechileItem.getImage();
+//        Bitmap bitmap = BitmapFactory.decodeByteArray(vechileImage, 0, vechileImage.length);
+//        holder.imageView.setImageBitmap(bitmap);
 
         return convertView;
 

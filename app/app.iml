@@ -178,6 +178,7 @@
     <orderEntry type="library" exported="" name="play-services-tasks-11.0.4" level="project" />
     <orderEntry type="library" exported="" name="play-services-vision-11.0.4" level="project" />
     <orderEntry type="library" exported="" name="play-services-ads-lite-11.0.4" level="project" />
+    <orderEntry type="library" exported="" name="ahbottomnavigation-2.1.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-auth-api-phone-11.0.4" level="project" />
     <orderEntry type="library" exported="" name="constraint-layout-1.0.2" level="project" />
     <orderEntry type="library" exported="" name="design-25.3.1" level="project" />

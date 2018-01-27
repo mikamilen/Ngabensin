@@ -8,18 +8,18 @@ public class VechileItem {
     private long id;
     private String nmkendaraan;
     private String jnkendaraan;
-    private byte[] image;
+//    private byte[] image;
 
     public VechileItem() {
     }
 
     ;
 
-    public VechileItem(long id, String nmkendaraan, String jnkendaraan, byte[] image) {
+    public VechileItem(long id, String nmkendaraan, String jnkendaraan) {
         this.id = id;
         this.nmkendaraan = nmkendaraan;
         this.jnkendaraan = jnkendaraan;
-        this.image = image;
+//        this.image = image;
     }
 
     public long getId() {
@@ -46,12 +46,12 @@ public class VechileItem {
         this.jnkendaraan = jnkendaraan;
     }
 
-    public byte[] getImage() {
-        return image;
-    }
-
-    public void setImage(byte[] image) {
-        this.image = image;
-    }
+//    public byte[] getImage() {
+//        return image;
+//    }
+//
+//    public void setImage(byte[] image) {
+//        this.image = image;
+//    }
 
 }

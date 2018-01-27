@@ -3,6 +3,7 @@ package com.example.root.ngabensin.Adapter;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
+import android.view.ViewGroup;
 
 import com.example.root.ngabensin.Vechile.Featured;
 import com.example.root.ngabensin.Vechile.MyVechile;
@@ -33,6 +34,22 @@ public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
             default:
                 return null;
         }
+    }
+
+    private int currentPage;
+
+    private Fragment mCurrentFragment;
+
+    public Fragment getCurrentFragment() {
+        return mCurrentFragment;
+    }
+    //...
+    @Override
+    public void setPrimaryItem(ViewGroup container, int position, Object object) {
+        if (getCurrentFragment() != object) {
+            mCurrentFragment = ((Fragment) object);
+        }
+        super.setPrimaryItem(container, position, object);
     }
 
     @Override
