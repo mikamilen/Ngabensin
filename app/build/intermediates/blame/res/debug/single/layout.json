@@ -36,8 +36,17 @@
         "source": "/home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/res/layout/design_layout_snackbar.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/layout/abc_dialog_title_material.xml"
+=======
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/layout/fragment_account.xml",
+        "source": "/home/adit/Ngabensin/app/src/main/res/layout/fragment_account.xml"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/layout/notification_template_lines_media.xml"
+>>>>>>> a29afb77a8eaba69f708e7e1142d82466b6d12e7
     },
     {
         "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
@@ -136,6 +145,17 @@
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/layout/notification_action.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/home/adit/.android/build-cache/8dbc4abc2706a0d8599e2b0db6a8d110861d7175/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/home/adit/Ngabensin/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+>>>>>>> a29afb77a8eaba69f708e7e1142d82466b6d12e7
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/layout/bottom_navigation_item.xml",
         "source": "/home/adit/.android/build-cache/99c7712e9ef835aa4eee5ca8e36608557b658508/output/res/layout/bottom_navigation_item.xml"
     },

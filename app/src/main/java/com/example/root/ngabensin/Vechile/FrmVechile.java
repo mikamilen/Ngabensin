@@ -44,6 +44,7 @@ import java.io.FileNotFoundException;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 
 public class FrmVechile extends AppCompatActivity {
 
@@ -87,9 +88,12 @@ public class FrmVechile extends AppCompatActivity {
         final VechileItem vechileItem = new VechileItem();
 
 
+
         btnAdd.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
+
 //                vechileItem.setNmkendaraan(edtNmKendaraan.getText().toString());
 //                vechileItem.setJnkendaraan(edtJnKendaraan.getText().toString());
 ////                vechileItem.setImage(imageViewToByte(imageView));
@@ -118,18 +122,36 @@ public class FrmVechile extends AppCompatActivity {
 //                Intent i = new Intent(FrmVechile.this, Vechile.class);
 //                startActivity(i);
                 int position = pager.getCurrentItem();
-                Toast.makeText(FrmVechile.this, "" + position + user.getName() , Toast.LENGTH_SHORT).show();
-
+//                Toast.makeText(FrmVechile.this, "" + position + user.getName() , Toast.LENGTH_SHORT).show();
                 Kendaraan kendaraan = new Kendaraan(edtNmKendaraan.getText().toString(),edtJnKendaraan.getText().toString());
-
-            DatabaseReference mRef = database.getReference("user").child(FirebaseAuth.getInstance()
+                DatabaseReference mRef = database.getReference("user").child(FirebaseAuth.getInstance()
                     .getCurrentUser().getUid());
-                mRef.child("Kendaran").setValue(kendaraan);
+                mRef.child("vehicle").child(random()).setValue(kendaraan);
+
+
+
+
+
 
 
             }
         });
     }
+
+
+    public static String random() {
+        Random generator = new Random();
+        StringBuilder randomStringBuilder = new StringBuilder();
+        int randomLength = generator.nextInt(12);
+        char tempChar;
+        for (int i = 0; i < randomLength; i++){
+            tempChar = (char) (generator.nextInt(96) + 32);
+            randomStringBuilder.append(tempChar);
+        }
+        return randomStringBuilder.toString();
+    }
+
+
 
 //        btnChoose.setOnClickListener(new View.OnClickListener(){
 //
@@ -218,7 +240,7 @@ public class FrmVechile extends AppCompatActivity {
 //        super.onActivityResult(requestCode, resultCode, data);
 //    }
 
-    private void init(){
+    private void init() {
         edtNmKendaraan = (EditText) findViewById(R.id.NmKendaraan);
         edtJnKendaraan = (EditText) findViewById(R.id.JnKendaraan);
 //        btnChoose = (Button) findViewById(R.id.btnChose);
@@ -227,23 +249,6 @@ public class FrmVechile extends AppCompatActivity {
 
         database = FirebaseDatabase.getInstance();
         DatabaseReference table_user = database.getReference("user");
-//            final String nmkendaraan = edtNmKendaraan.getText().toString();
-//            final String jnkendaraan = edtJnKendaraan.getText().toString();
-
-        table_user.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(DataSnapshot dataSnapshot) {
-            user = dataSnapshot.getValue(User.class);
-//                User user = new User(edtNmKendaraan.getText().toString(),edtJnKendaraan.getText().toString(),User.class.getName());
-//                            table_user.child("user").child(user.getName()).setValue(user);
-            }
-
-            @Override
-            public void onCancelled(DatabaseError databaseError) {
-
-            }
-        });
-
 
     }
 
@@ -253,8 +258,7 @@ public class FrmVechile extends AppCompatActivity {
 
 
 
-
-    private List<FueltripModel> getImage() {
+    private List<FueltripModel> getImage(){
         List<FueltripModel> models = new ArrayList<>();
         models.add(new FueltripModel(R.drawable.motornew, "Hello"));
         models.add(new FueltripModel(R.drawable.motornew, "Hello1"));
@@ -262,3 +266,5 @@ public class FrmVechile extends AppCompatActivity {
         return models;
     }
 }
+
+

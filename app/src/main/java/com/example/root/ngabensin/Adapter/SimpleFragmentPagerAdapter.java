@@ -3,6 +3,7 @@ package com.example.root.ngabensin.Adapter;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
+import android.support.v4.app.FragmentStatePagerAdapter;
 import android.view.ViewGroup;
 
 import com.example.root.ngabensin.Vechile.Featured;
@@ -12,7 +13,7 @@ import com.example.root.ngabensin.Vechile.MyVechile;
  * Created by sep on 13/01/18.
  */
 
-public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
+public class SimpleFragmentPagerAdapter extends FragmentStatePagerAdapter {
     final int PAGE_COUNT = 2;
 
     public SimpleFragmentPagerAdapter(FragmentManager fm) {

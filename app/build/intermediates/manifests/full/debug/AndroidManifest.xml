@@ -87,6 +87,7 @@
         <activity
             android:name="com.example.root.ngabensin.SignUpActivity"
             android:label="@string/title_activity_sign_up" />
+        <activity android:name="com.example.root.ngabensin.Home" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

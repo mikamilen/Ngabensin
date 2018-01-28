@@ -12,6 +12,7 @@
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search_black_24dp.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/vehicle.xml",
         "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-anydpi-v21/vehicle.xml"
     },
@@ -26,6 +27,10 @@
     {
         "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_search_black_24dp.xml",
         "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search_black_24dp.xml"
+=======
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/account.xml",
+        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-anydpi-v21/account.xml"
+>>>>>>> a29afb77a8eaba69f708e7e1142d82466b6d12e7
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",

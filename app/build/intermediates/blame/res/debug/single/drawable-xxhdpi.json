@@ -36,6 +36,10 @@
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xxhdpi/vehicle.png"
     },
     {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xxhdpi/account.png",
+        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xxhdpi/account.png"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xxhdpi/met_ic_clear.png",
         "source": "/home/adit/.android/build-cache/2f3ffd20225aa21994593b4589710ded2e776b2d/output/res/drawable-xxhdpi/met_ic_clear.png"
     }
