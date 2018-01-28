@@ -28,16 +28,16 @@
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/color/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/color/abc_primary_text_disable_only_material_light.xml"
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/color/common_google_signin_btn_tint.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
-        "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/color/common_google_signin_btn_tint.xml"
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
