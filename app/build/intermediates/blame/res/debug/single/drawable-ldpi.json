@@ -8,15 +8,32 @@
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-ldpi/ic_search_black_24dp.png"
     },
     {
+<<<<<<< HEAD
+        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-ldpi/direct.png",
+        "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-ldpi/direct.png"
+    },
+    {
+        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-ldpi/vehicle.png",
+        "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-ldpi/vehicle.png"
+=======
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-ldpi/account.png",
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-ldpi/account.png"
+>>>>>>> a29afb77a8eaba69f708e7e1142d82466b6d12e7
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-ldpi/direct.png",
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-ldpi/direct.png"
     },
     {
+        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_search_black_24dp.png",
+        "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-ldpi/ic_search_black_24dp.png"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-ldpi/vehicle.png",
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-ldpi/vehicle.png"
+    },
+    {
+        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-ldpi/home.png",
+        "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-ldpi/home.png"
     }
 ]

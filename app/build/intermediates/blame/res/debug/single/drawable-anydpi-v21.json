@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/direct.xml",
+        "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-anydpi-v21/direct.xml"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
         "source": "/home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
@@ -8,8 +12,25 @@
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search_black_24dp.xml"
     },
     {
+<<<<<<< HEAD
+        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/vehicle.xml",
+        "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-anydpi-v21/vehicle.xml"
+    },
+    {
+        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/root/.android/build-cache/9ba2bd0e584ccd104834e1126b27e07e07d0e88e/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/root/.android/build-cache/9ba2bd0e584ccd104834e1126b27e07e07d0e88e/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_search_black_24dp.xml",
+        "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search_black_24dp.xml"
+=======
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/account.xml",
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-anydpi-v21/account.xml"
+>>>>>>> a29afb77a8eaba69f708e7e1142d82466b6d12e7
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
@@ -20,8 +41,16 @@
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-anydpi-v21/home.xml"
     },
     {
+        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ms__menu_down.xml",
+        "source": "/root/.android/build-cache/2596deaa580fb92fb5adb38ba090e02d81445f79/output/res/drawable-anydpi-v21/ms__menu_down.xml"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ms__menu_down.xml",
         "source": "/home/adit/.android/build-cache/89c680c613328bf1699b3cc80386f9efad647a78/output/res/drawable-anydpi-v21/ms__menu_down.xml"
+    },
+    {
+        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/home.xml",
+        "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-anydpi-v21/home.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/direct.xml",
