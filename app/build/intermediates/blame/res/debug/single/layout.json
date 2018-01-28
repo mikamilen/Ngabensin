@@ -36,6 +36,10 @@
         "source": "/home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/res/layout/design_layout_snackbar.xml"
     },
     {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/layout/fragment_account.xml",
+        "source": "/home/adit/Ngabensin/app/src/main/res/layout/fragment_account.xml"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/layout/notification_template_lines_media.xml"
     },
@@ -146,6 +150,10 @@
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
         "source": "/home/adit/.android/build-cache/8dbc4abc2706a0d8599e2b0db6a8d110861d7175/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/home/adit/Ngabensin/app/src/main/res/layout/activity_home.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/layout/bottom_navigation_item.xml",

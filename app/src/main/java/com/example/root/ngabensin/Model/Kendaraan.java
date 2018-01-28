@@ -14,5 +14,6 @@ public class Kendaraan {
     public Kendaraan(String namaKendaraan, String jenisKendaraan) {
         this.namaKendaraan = namaKendaraan;
         this.jenisKendaraan = jenisKendaraan;
+
     }
 }

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/account.png",
+        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xxxhdpi/account.png"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/vehicle.png",
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xxxhdpi/vehicle.png"
     },

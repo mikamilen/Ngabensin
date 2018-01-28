@@ -18,5 +18,9 @@
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi/home.png",
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xhdpi/home.png"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi/account.png",
+        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xhdpi/account.png"
     }
 ]

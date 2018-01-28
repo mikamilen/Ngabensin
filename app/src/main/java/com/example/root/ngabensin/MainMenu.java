@@ -12,6 +12,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.Window;
+import android.view.WindowManager;
 import android.widget.Button;
 
 import com.aurelhubert.ahbottomnavigation.AHBottomNavigationItem;
@@ -21,14 +23,19 @@ import com.example.root.ngabensin.Vechile.Vechile;
 public class MainMenu extends AppCompatActivity {
 Button btnMyFuel , btnFuelCost;
     BottomNavigationItemView bottomNavigation;
-    private ActionBar toolbar;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+
         super.onCreate(savedInstanceState);
+        requestWindowFeature(Window.FEATURE_NO_TITLE);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
+                WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.activity_main_menu);
 
-        loadFragment(new VehicleFragment());
-//
+        loadFragment(new Home());
+
 //        btnMyFuel = (Button) findViewById(R.id.btnMyFuel);
 //        btnMyFuel.setOnClickListener(new View.OnClickListener() {
 //            @Override
@@ -65,19 +72,16 @@ Button btnMyFuel , btnFuelCost;
             Fragment fragment;
             switch (item.getItemId()) {
                 case R.id.home:
-//                    toolbar.setTitle("vehicle");
+                    fragment = new Home();
+                    loadFragment(fragment);
+                    return true;
+                case R.id.vehicle:
                     fragment = new VehicleFragment();
                     loadFragment(fragment);
                     return true;
-                case R.id.direct:
-//                    toolbar.setTitle("Cart");
-//                    fragment = new VehicleFragment();
-//                    loadFragment(fragment);
-                    return true;
-                case R.id.vehicle:
-//                    toolbar.setTitle("Profile");
-//                    fragment = new VehicleFragment();
-//                    loadFragment(fragment);
+                case R.id.account:
+                    fragment = new Account();
+                    loadFragment(fragment);
                     return true;
             }
             return false;

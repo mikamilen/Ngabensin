@@ -8,6 +8,10 @@
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-ldpi/ic_search_black_24dp.png"
     },
     {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-ldpi/account.png",
+        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-ldpi/account.png"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-ldpi/direct.png",
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-ldpi/direct.png"
     },

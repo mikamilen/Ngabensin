@@ -8,6 +8,10 @@
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search_black_24dp.xml"
     },
     {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/account.xml",
+        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-anydpi-v21/account.xml"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
         "source": "/home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
     },

@@ -4,6 +4,10 @@
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-mdpi/direct.png"
     },
     {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-mdpi/account.png",
+        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-mdpi/account.png"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-mdpi/home.png",
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-mdpi/home.png"
     },
