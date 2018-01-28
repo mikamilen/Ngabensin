@@ -15,4 +15,20 @@ public class Kendaraan {
         this.namaKendaraan = namaKendaraan;
         this.jenisKendaraan = jenisKendaraan;
     }
+
+    public String getNamaKendaraan() {
+        return namaKendaraan;
+    }
+
+    public void setNamaKendaraan(String namaKendaraan) {
+        this.namaKendaraan = namaKendaraan;
+    }
+
+    public String getJenisKendaraan() {
+        return jenisKendaraan;
+    }
+
+    public void setJenisKendaraan(String jenisKendaraan) {
+        this.jenisKendaraan = jenisKendaraan;
+    }
 }
