@@ -81,17 +81,17 @@ public final class R {
         public static final int satellite = 0x7f100066;
         public static final int standard = 0x7f10007c;
         public static final int terrain = 0x7f100067;
-        public static final int webview = 0x7f100107;
+        public static final int webview = 0x7f100109;
         public static final int wide = 0x7f10007d;
-        public static final int window = 0x7f100106;
+        public static final int window = 0x7f100108;
     }
     public static final class integer {
         public static final int google_play_services_version = 0x7f0d0007;
     }
     public static final class layout {
-        public static final int amu_info_window = 0x7f040029;
-        public static final int amu_text_bubble = 0x7f04002a;
-        public static final int amu_webview = 0x7f04002b;
+        public static final int amu_info_window = 0x7f04002b;
+        public static final int amu_text_bubble = 0x7f04002c;
+        public static final int amu_webview = 0x7f04002d;
     }
     public static final class raw {
         public static final int amu_ballon_gx_prefix = 0x7f080000;

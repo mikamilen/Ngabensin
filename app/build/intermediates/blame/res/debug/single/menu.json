@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/menu/menu.xml",
-        "source": "/home/adit/Ngabensin/app/src/main/res/menu/menu.xml"
-    },
-    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/menu/menu.xml",
         "source": "/home/mika/Ngabensin/app/src/main/res/menu/menu.xml"
     }

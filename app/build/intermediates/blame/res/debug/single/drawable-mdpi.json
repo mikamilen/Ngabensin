@@ -4,28 +4,8 @@
         "source": "/home/mika/Ngabensin/app/build/generated/res/pngs/debug/drawable-mdpi/home.png"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-mdpi/direct.png",
-        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-mdpi/direct.png"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-mdpi/account.png",
-        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-mdpi/account.png"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-mdpi/home.png",
-        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-mdpi/home.png"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_search_black_24dp.png",
-        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-mdpi/ic_search_black_24dp.png"
-    },
-    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-mdpi/direct.png",
         "source": "/home/mika/Ngabensin/app/build/generated/res/pngs/debug/drawable-mdpi/direct.png"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-mdpi/vehicle.png",
-        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-mdpi/vehicle.png"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-mdpi/met_ic_clear.png",
@@ -34,10 +14,6 @@
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-mdpi/vehicle.png",
         "source": "/home/mika/Ngabensin/app/build/generated/res/pngs/debug/drawable-mdpi/vehicle.png"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-mdpi/met_ic_clear.png",
-        "source": "/home/adit/.android/build-cache/2f3ffd20225aa21994593b4589710ded2e776b2d/output/res/drawable-mdpi/met_ic_clear.png"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_search_black_24dp.png",

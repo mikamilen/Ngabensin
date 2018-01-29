@@ -22,29 +22,5 @@
                 }
             }
         ]
-    },
-    {
-        "outputFile": "/home/adit/Ngabensin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 112,
-                    "endOffset": 163
-                },
-                "from": {
-                    "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-ldltr-v21/values-ldltr-v21.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 112,
-                        "endOffset": 163
-                    }
-                }
-            }
-        ]
     }
 ]

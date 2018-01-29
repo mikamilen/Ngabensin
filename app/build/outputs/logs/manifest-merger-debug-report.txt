@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml:2:1-69:12
+ADDED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml:2:1-71:12
 	package
 		ADDED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml:3:5-41
 		INJECTED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml
@@ -71,7 +71,7 @@ ADDED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml:20:5-72
 	android:name
 		ADDED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml:20:22-69
 application
-ADDED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml:22:5-67:19
+ADDED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml:22:5-69:19
 MERGED from [com.xw.repo:bubbleseekbar:3.5-lite] /root/.android/build-cache/8c2b251a9b91f477fbb46e8d9efbb103843ec59e/output/AndroidManifest.xml:11:5-15:19
 MERGED from [com.google.android.gms:play-services:11.0.4] /root/.android/build-cache/9677d632ac1d50938c5fa684f853f297239190bc/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /root/.android/build-cache/68a14dc444913765d506ffea4452790322b79c5f/output/AndroidManifest.xml:23:5-26:19
@@ -213,9 +213,17 @@ ADDED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml:63:9-65:62
 	android:name
 		ADDED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml:64:13-43
 activity#com.example.root.ngabensin.Home
-ADDED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml:66:9-51
+ADDED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml:66:9-42
 	android:name
 		ADDED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml:66:19-39
+activity#com.example.root.ngabensin.ResultTrue
+ADDED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml:67:9-48
+	android:name
+		ADDED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml:67:19-45
+activity#com.example.root.ngabensin.ResultFalse
+ADDED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml:68:9-58
+	android:name
+		ADDED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml:68:19-46
 uses-sdk
 INJECTED from /home/mika/Ngabensin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:multidex:1.0.1] /root/.android/build-cache/bdafde3f6666d93765720240e3e4fea5a6135f29/output/AndroidManifest.xml:18:5-42

@@ -1,19 +1,7 @@
 [
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/home/adit/Ngabensin/app/src/main/res/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/mipmap-hdpi/logongabensin.png",
-        "source": "/home/adit/Ngabensin/app/src/main/res/mipmap-hdpi/logongabensin.png"
-    },
-    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/mipmap-hdpi/logongabensin.png",
         "source": "/home/mika/Ngabensin/app/src/main/res/mipmap-hdpi/logongabensin.png"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/mipmap-hdpi/logo.png",
-        "source": "/home/adit/Ngabensin/app/src/main/res/mipmap-hdpi/logo.png"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/mipmap-hdpi/logo.png",
@@ -26,9 +14,5 @@
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/home/mika/Ngabensin/app/src/main/res/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/mipmap-hdpi/logoku.png",
-        "source": "/home/adit/Ngabensin/app/src/main/res/mipmap-hdpi/logoku.png"
     }
 ]

@@ -1,23 +1,11 @@
 [
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_extended_data.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_extended_data.kml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_inline_style.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_inline_style.kml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_visibility_ground_overlay.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_visibility_ground_overlay.kml"
-    },
-    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_nested_multigeometry.kml",
         "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_nested_multigeometry.kml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_nested_folders.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_nested_folders.kml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_multiple_placemarks.kml",
+        "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_multiple_placemarks.kml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_poly_style_boolean_numeric.kml",
@@ -32,74 +20,6 @@
         "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_ground_overlay.kml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_draw_order_ground_overlay.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_draw_order_ground_overlay.kml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_ground_overlay.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_ground_overlay.kml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_inline_style.kml",
-        "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_inline_style.kml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_poly_style_boolean_numeric.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_poly_style_boolean_numeric.kml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_ground_overlay_color.kml",
-        "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_ground_overlay_color.kml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_default_balloon.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_default_balloon.kml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_poly_style_boolean_alpha.kml",
-        "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_poly_style_boolean_alpha.kml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_unsupported.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_unsupported.kml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_cdata.kml",
-        "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_cdata.kml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_basic_placemark.kml",
-        "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_basic_placemark.kml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_document_nest.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_document_nest.kml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_cdata.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_cdata.kml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_nested_multigeometry.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_nested_multigeometry.kml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_basic_folder.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_basic_folder.kml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_multiple_placemarks.kml",
-        "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_multiple_placemarks.kml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_poly_style_boolean_alpha.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_poly_style_boolean_alpha.kml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_ballon_gx_prefix.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_ballon_gx_prefix.kml"
-    },
-    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_document_nest.kml",
         "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_document_nest.kml"
     },
@@ -112,10 +32,6 @@
         "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_unsupported.kml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_multiple_placemarks.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_multiple_placemarks.kml"
-    },
-    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_basic_folder.kml",
         "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_basic_folder.kml"
     },
@@ -124,28 +40,24 @@
         "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_draw_order_ground_overlay.kml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_ground_overlay_color.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_ground_overlay_color.kml"
-    },
-    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_nested_folders.kml",
         "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_nested_folders.kml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_basic_placemark.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_basic_placemark.kml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_inline_style.kml",
+        "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_inline_style.kml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_multigeometry_placemarks.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_multigeometry_placemarks.kml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_ground_overlay_color.kml",
+        "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_ground_overlay_color.kml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_poly_style_boolean_alpha.kml",
+        "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_poly_style_boolean_alpha.kml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_extended_data.kml",
         "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_extended_data.kml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_unknwown_folder.kml",
-        "source": "/home/adit/.android/build-cache/4eb1085dd778c9dfa388e5f516e70db280a02edf/output/res/raw/amu_unknwown_folder.kml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_visibility_ground_overlay.kml",
@@ -156,7 +68,15 @@
         "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_ballon_gx_prefix.kml"
     },
     {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_cdata.kml",
+        "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_cdata.kml"
+    },
+    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_default_balloon.kml",
         "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_default_balloon.kml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/raw/amu_basic_placemark.kml",
+        "source": "/root/.android/build-cache/175a0ac6bd26e71039fd4542f32ca48a92d8cff2/output/res/raw/amu_basic_placemark.kml"
     }
 ]

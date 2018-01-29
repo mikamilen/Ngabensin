@@ -1,15 +1,11 @@
 [
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_pause.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_notification_pause.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_rewind.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play_large.xml",
         "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_play_large.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop_large.xml",
@@ -28,16 +24,8 @@
         "source": "/root/.android/build-cache/2596deaa580fb92fb5adb38ba090e02d81445f79/output/res/drawable/ms__drawable.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
-        "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
-    },
-    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_media_play_dark.xml",
         "source": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/drawable/mr_media_play_dark.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_light.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_dialog_material_background_light.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/ms__arrow.xml",
@@ -48,16 +36,12 @@
         "source": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/drawable/mr_button_connected_light.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/notification_bg.xml"
-    },
-    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward.xml",
         "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_forward.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_btn_colored_material.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_stop.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
@@ -68,20 +52,24 @@
         "source": "/root/.android/build-cache/641f5adefeb2db9647b7708d0d633a03731cd09e/output/res/drawable/background_tab.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_skip_ad_label_border.xml"
-    },
-    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
         "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_ic_clear_material.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_notification_skip_prev.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_media_pause_dark.xml",
+        "source": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/drawable/mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
@@ -96,56 +84,36 @@
         "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_expanded_controller_pause.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_vector_test.xml"
-    },
-    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_forward30.xml",
         "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_expanded_controller_forward30.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
-        "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/motornew.png",
-        "source": "/home/adit/Ngabensin/app/src/main/res/drawable/motornew.png"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
-        "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_button_connecting_light.xml",
+        "source": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/drawable/mr_button_connecting_light.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
         "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_rewind30.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/item_background.xml",
-        "source": "/home/adit/.android/build-cache/99c7712e9ef835aa4eee5ca8e36608557b658508/output/res/drawable/item_background.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_btn_check_material.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
         "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_btn_colored_material.xml"
     },
     {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_rewind10.xml"
+    },
+    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
         "source": "/root/.android/build-cache/9ba2bd0e584ccd104834e1126b27e07e07d0e88e/output/res/drawable/design_fab_background.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_pause_large.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
@@ -168,12 +136,12 @@
         "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_small_icon.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_vol_type_audiotrack_light.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_vol_type_audiotrack_light.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_progress_drawable.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_mini_controller_progress_drawable.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_notification_forward.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_button_dark.xml",
+        "source": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/drawable/mr_button_dark.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
@@ -192,480 +160,16 @@
         "source": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/drawable/mr_group_expand.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_media_pause_light.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_media_pause_light.xml"
-    },
-    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",
         "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_mini_controller_gradient_light.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_media_play_dark.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_media_play_dark.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_pause_large.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_thumb.xml",
         "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_dialog_close_light.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_dialog_close_light.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
-        "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/drawable/common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_vector_test.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_notification_forward10.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/notification_icon_background.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/ms__drawable.xml",
-        "source": "/home/adit/.android/build-cache/89c680c613328bf1699b3cc80386f9efad647a78/output/res/drawable/ms__drawable.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_expanded_controller_mute.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_button_dark.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_button_dark.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
-        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_text_disabled.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_play.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_play.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
-        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/res/drawable/design_snackbar_background.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/ms__selector.xml",
-        "source": "/home/adit/.android/build-cache/89c680c613328bf1699b3cc80386f9efad647a78/output/res/drawable/ms__selector.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_pause.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind30.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_notification_rewind30.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
-        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_disconnect.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_disconnect.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
-        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind30.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_rewind30.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_forward10.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_skip_prev.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/notification_icon_background.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
-        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop_large.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_stop_large.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_button_connected_light.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_button_connected_light.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_mute.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
-        "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/drawable/common_google_signin_btn_icon_dark.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
-        "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/drawable/common_google_signin_btn_text_disabled.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_disconnect.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_notification_disconnect.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
-        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/res/drawable/design_fab_background.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
-        "source": "/home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/res/drawable/design_password_eye.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
-        "source": "/root/.android/build-cache/9ba2bd0e584ccd104834e1126b27e07e07d0e88e/output/res/drawable/design_bottom_navigation_item_background.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_forward30.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_expanded_controller_forward30.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_expanded_controller_play.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_media_play_light.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_media_play_light.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
-        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_notification_rewind.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_closed_caption.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
-        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_forward30.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_button_connected_dark.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_button_connected_dark.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
-        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_skip_prev.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
-        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_pause.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/notification_tile_bg.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_light.xml",
-        "source": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/drawable/mr_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
-        "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_rewind.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_button_connecting_light.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_button_connecting_light.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_stop.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
-        "source": "/home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/res/drawable/design_bottom_navigation_item_background.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
-        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_icon_dark.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_media_pause_dark.xml",
-        "source": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/drawable/mr_media_pause_dark.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_forward30.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
-        "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
-        "source": "/home/adit/.android/build-cache/50e81e0d33b415e23a4a11710872f2461c70f28d/output/res/drawable/cast_ic_notification_connecting.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_notification_rewind10.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_button_connecting_light.xml",
-        "source": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/drawable/mr_button_connecting_light.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_vol_type_audiotrack_dark.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_vol_type_audiotrack_dark.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_notification_forward30.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_dark.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_dialog_material_background_dark.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
-        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/notification_bg_low.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_rewind10.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_thumb.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_closed_caption.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_dialog_close_dark.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_dialog_close_dark.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
-        "source": "/home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/res/drawable/navigation_empty_icon.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_stop.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_progress_drawable.xml",
-        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_mini_controller_progress_drawable.xml"
-    },
-    {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_button_dark.xml",
-        "source": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/drawable/mr_button_dark.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_pause_large.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
@@ -684,6 +188,14 @@
         "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_vector_test.xml"
+    },
+    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
         "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
     },
@@ -692,36 +204,52 @@
         "source": "/root/.android/build-cache/9ba2bd0e584ccd104834e1126b27e07e07d0e88e/output/res/drawable/design_password_eye.xml"
     },
     {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_expanded_controller_mute.xml"
+    },
+    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_media_play_light.xml",
         "source": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/drawable/mr_media_play_light.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play_large.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_play_large.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_next.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_notification_skip_next.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_play.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/notification_background.xml",
-        "source": "/home/adit/.android/build-cache/99c7712e9ef835aa4eee5ca8e36608557b658508/output/res/drawable/notification_background.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
         "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
-        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_text_light.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_forward30.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
@@ -732,44 +260,76 @@
         "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
         "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/notification_tile_bg.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
         "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
-    },
-    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
         "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_button_connected_dark.xml",
         "source": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/drawable/mr_button_connected_dark.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
-        "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_disconnect.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/notification_background.xml",
         "source": "/root/.android/build-cache/ebc97c85678fb8a30c566fbcf3e6669289689575/output/res/drawable/notification_background.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind30.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_forward10.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_button_connecting_dark.xml",
@@ -788,56 +348,24 @@
         "source": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/drawable/mr_button_light.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_track.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_expanded_controller_seekbar_track.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
-        "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/drawable/common_google_signin_btn_icon_light.xml"
-    },
-    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
         "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
-        "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/drawable/common_google_signin_btn_text_light.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_group_collapse.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_group_collapse.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_expanded_controller_stop.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_group_expand.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_group_expand.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/ms__arrow.xml",
-        "source": "/home/adit/.android/build-cache/89c680c613328bf1699b3cc80386f9efad647a78/output/res/drawable/ms__arrow.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_mute.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
         "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
-        "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
@@ -850,10 +378,6 @@
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
         "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_mute.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/item_background.xml",
@@ -876,108 +400,88 @@
         "source": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/drawable/mr_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
         "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_skip_prev.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_play.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_notification_play.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/root/.android/build-cache/9ba2bd0e584ccd104834e1126b27e07e07d0e88e/output/res/drawable/design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_media_pause_dark.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_media_pause_dark.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_closed_caption.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_button_light.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_button_light.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_small_icon.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_notification_small_icon.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_text_cursor_material.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
         "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_expanded_controller_play.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_ratingbar_material.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
-        "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
-        "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_forward30.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
         "source": "/root/.android/build-cache/9c1c21ed260875129622c22bb2285be0ba04637e/output/res/drawable/cast_ic_notification_connecting.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_expanded_controller_mute.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_mini_controller_gradient_light.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_rewind30.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_edit_text_material.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
         "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/background_tab.xml",
-        "source": "/home/adit/.android/build-cache/c16feb4b852548c29347e1ac108ddf55bf8ed711/output/res/drawable/background_tab.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_skip_prev.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_pause.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_expanded_controller_pause.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_progress_drawable.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_mini_controller_progress_drawable.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/root/.android/build-cache/cc3182fc9b6cb10bf649fc9ffb0ebf3b9396efa0/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_dialog_close_dark.xml",
         "source": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/drawable/mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
+        "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable/notification_tile_bg.xml"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
@@ -988,7 +492,7 @@
         "source": "/root/.android/build-cache/63f8fd9fe5c8a90e53cb104fbf37f7e63fb0577a/output/res/drawable/cast_ic_notification_pause.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_button_connecting_dark.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_button_connecting_dark.xml"
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_light.xml",
+        "source": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/drawable/mr_dialog_material_background_light.xml"
     }
 ]

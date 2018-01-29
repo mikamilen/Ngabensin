@@ -71,13 +71,15 @@
     <Button
         android:id="@+id/btnNext"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/seekBar"
-        android:background="#F1543E"
-        android:text="Next"
-        android:textColor="#fff"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
         android:layout_marginLeft="32dp"
-        android:layout_marginRight="32dp"/>
+        android:layout_marginRight="32dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="next"
+        android:textColor="#fff"
+        android:textSize="20dp" />
+
 
 
 

@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-hdpi/direct.png",
-        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-hdpi/direct.png"
-    },
-    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-hdpi/home.png",
         "source": "/home/mika/Ngabensin/app/build/generated/res/pngs/debug/drawable-hdpi/home.png"
     },
@@ -12,32 +8,12 @@
         "source": "/home/mika/Ngabensin/app/build/generated/res/pngs/debug/drawable-hdpi/account.png"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-hdpi/vehicle.png",
-        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-hdpi/vehicle.png"
-    },
-    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-hdpi/direct.png",
         "source": "/home/mika/Ngabensin/app/build/generated/res/pngs/debug/drawable-hdpi/direct.png"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-hdpi/account.png",
-        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-hdpi/account.png"
-    },
-    {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-hdpi/met_ic_clear.png",
         "source": "/root/.android/build-cache/38602f7925c6890d130c47a2d354d297a68b444f/output/res/drawable-hdpi/met_ic_clear.png"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-hdpi/met_ic_clear.png",
-        "source": "/home/adit/.android/build-cache/2f3ffd20225aa21994593b4589710ded2e776b2d/output/res/drawable-hdpi/met_ic_clear.png"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_search_black_24dp.png",
-        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-hdpi/ic_search_black_24dp.png"
-    },
-    {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-hdpi/home.png",
-        "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-hdpi/home.png"
     },
     {
         "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-hdpi/vehicle.png",
