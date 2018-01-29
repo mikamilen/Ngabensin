@@ -8,6 +8,10 @@
         "source": "/home/adit/.android/build-cache/99c7712e9ef835aa4eee5ca8e36608557b658508/output/res/layout-v21/bottom_navigation_item.xml"
     },
     {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_small_item.xml",
         "source": "/home/adit/.android/build-cache/99c7712e9ef835aa4eee5ca8e36608557b658508/output/res/layout-v21/bottom_navigation_small_item.xml"
     },
@@ -20,11 +24,35 @@
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/root/.android/build-cache/ebc97c85678fb8a30c566fbcf3e6669289689575/output/res/layout-v21/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_item.xml",
+        "source": "/root/.android/build-cache/ebc97c85678fb8a30c566fbcf3e6669289689575/output/res/layout-v21/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/layout-v21/notification_action.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/root/.android/build-cache/9a632a0a8372cf3c208c482d67b0b420dc348025/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/layout-v21/notification_action.xml"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ms__menu_down.png",
+        "source": "/root/.android/build-cache/2596deaa580fb92fb5adb38ba090e02d81445f79/output/res/drawable-ldpi-v4/ms__menu_down.png"
+    },
+    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ms__menu_down.png",
         "source": "/home/adit/.android/build-cache/89c680c613328bf1699b3cc80386f9efad647a78/output/res/drawable-ldpi-v4/ms__menu_down.png"
     }
