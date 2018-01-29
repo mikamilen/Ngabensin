@@ -1,23 +1,11 @@
 [
     {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
-        "source": "/root/.android/build-cache/d0ba084e82f5204df95c189a38af8de42cb3102c/output/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
         "source": "/home/adit/.android/build-cache/642b74a547de8353b6182a1e7068b3e79c5941a2/output/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
     },
     {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
-        "source": "/root/.android/build-cache/d0ba084e82f5204df95c189a38af8de42cb3102c/output/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
         "source": "/home/adit/.android/build-cache/642b74a547de8353b6182a1e7068b3e79c5941a2/output/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
-    },
-    {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
-        "source": "/root/.android/build-cache/d0ba084e82f5204df95c189a38af8de42cb3102c/output/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
@@ -26,9 +14,5 @@
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
         "source": "/home/adit/.android/build-cache/642b74a547de8353b6182a1e7068b3e79c5941a2/output/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
-    },
-    {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
-        "source": "/root/.android/build-cache/d0ba084e82f5204df95c189a38af8de42cb3102c/output/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
     }
 ]

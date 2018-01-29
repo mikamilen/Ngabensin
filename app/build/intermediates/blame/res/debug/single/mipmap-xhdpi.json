@@ -1,13 +1,5 @@
 [
     {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/mipmap-xhdpi/logo.png",
-        "source": "/home/mika/Documents/Ngabensin/app/src/main/res/mipmap-xhdpi/logo.png"
-    },
-    {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
-        "source": "/home/mika/Documents/Ngabensin/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/mipmap-xhdpi/logo.png",
         "source": "/home/adit/Ngabensin/app/src/main/res/mipmap-xhdpi/logo.png"
     },

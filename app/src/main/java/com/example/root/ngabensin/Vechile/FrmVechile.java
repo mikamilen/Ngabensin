@@ -11,6 +11,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v4.app.ActivityCompat;
+import android.support.v4.app.Fragment;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -23,12 +24,12 @@ import android.widget.Toast;
 import com.example.root.ngabensin.Adapter.ListViewPagerAdapter;
 import com.example.root.ngabensin.ChooseFuel;
 import com.example.root.ngabensin.ChooseVehicle;
+import com.example.root.ngabensin.MainMenu;
 import com.example.root.ngabensin.Model.FueltripModel;
 import com.example.root.ngabensin.Model.Kendaraan;
 import com.example.root.ngabensin.Model.User;
 import com.example.root.ngabensin.R;
 import com.example.root.ngabensin.SQLiteHelper;
-import com.example.root.ngabensin.SQLiteOperation;
 import com.example.root.ngabensin.SignUpActivity;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -54,10 +55,7 @@ public class FrmVechile extends AppCompatActivity {
 
     private User user;
     private FirebaseDatabase database;
-    VechileItem vechileItem;
     DatePickerDialog datePickerDialog;
-
-    SQLiteOperation dataOperations;
 
     final int REQUEST_CODE_GALLERY = 999;
 
@@ -69,11 +67,9 @@ public class FrmVechile extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_frm_vechile);
 
-        dataOperations = new SQLiteOperation(this);
-        dataOperations.open();
-
         final ViewPager pager = (ViewPager) findViewById(R.id.viewPager);
         pager.setAdapter(new ListViewPagerAdapter(getSupportFragmentManager(), getImage()));
+
 
         init();
 
@@ -82,11 +78,8 @@ public class FrmVechile extends AppCompatActivity {
 
         if (b != null) {
             if (b.getString("action").equals("Edit")) {
-                dataOperations.UpdateVechile(vechileItem);
             }
         }
-        final VechileItem vechileItem = new VechileItem();
-
 
 
         btnAdd.setOnClickListener(new View.OnClickListener() {
@@ -122,17 +115,32 @@ public class FrmVechile extends AppCompatActivity {
 //                Intent i = new Intent(FrmVechile.this, Vechile.class);
 //                startActivity(i);
                 int position = pager.getCurrentItem();
+                String name;
+                if(position == 0){
+                    name = "satu";
+                }
+                else if(position ==1){
+                    name = "dua";
+                }
+                else if(position ==2){
+                    name = "tiga";
+                }
+                else if(position ==3){
+                    name = "empat";
+                }
+                else{
+                    name = null;
+                }
 //                Toast.makeText(FrmVechile.this, "" + position + user.getName() , Toast.LENGTH_SHORT).show();
-                Kendaraan kendaraan = new Kendaraan(edtNmKendaraan.getText().toString(),edtJnKendaraan.getText().toString());
-                DatabaseReference mRef = database.getReference("user").child(FirebaseAuth.getInstance()
-                    .getCurrentUser().getUid());
+            //    String icon = view.getTag().toString();
+                Kendaraan kendaraan = new Kendaraan(edtNmKendaraan.getText().toString(),edtJnKendaraan.getText().toString(), name);
+                DatabaseReference mRef = database.getReference("user").child(FirebaseAuth.getInstance().getCurrentUser().getUid());
                 mRef.child("vehicle").child(random()).setValue(kendaraan);
 
+                Toast.makeText(FrmVechile.this, "Added Successfully", Toast.LENGTH_SHORT).show();
 
-
-
-
-
+                Intent intent = new Intent(FrmVechile.this, MainMenu.class);
+                startActivity(intent);
 
             }
         });
@@ -255,14 +263,11 @@ public class FrmVechile extends AppCompatActivity {
 
 
 
-
-
-
     private List<FueltripModel> getImage(){
         List<FueltripModel> models = new ArrayList<>();
-        models.add(new FueltripModel(R.drawable.motornew, "Hello"));
-        models.add(new FueltripModel(R.drawable.motornew, "Hello1"));
-        models.add(new FueltripModel(R.drawable.motornew, "Hello2"));
+        models.add(new FueltripModel(R.drawable.motornew, "image1"));
+        models.add(new FueltripModel(R.drawable.motornew, "image2"));
+        models.add(new FueltripModel(R.drawable.motornew, "image3"));
         return models;
     }
 }

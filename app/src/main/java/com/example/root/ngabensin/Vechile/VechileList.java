@@ -8,8 +8,14 @@ import android.view.MenuItem;
 import android.widget.GridView;
 
 import com.example.root.ngabensin.Adapter.VechileListAdapter;
+import com.example.root.ngabensin.Model.Kendaraan;
 import com.example.root.ngabensin.R;
-import com.example.root.ngabensin.SQLiteOperation;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
 
@@ -21,10 +27,8 @@ public class VechileList extends AppCompatActivity {
 
 
     GridView gridView;
-    ArrayList<VechileItem> list;
+    ArrayList<Kendaraan> list;
     VechileListAdapter adapter;
-
-    SQLiteOperation dataOperations;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -32,9 +36,6 @@ public class VechileList extends AppCompatActivity {
         setContentView(R.layout.activity_my_vechile);
 
         list = new ArrayList<>();
-        dataOperations = new SQLiteOperation(this);
-        dataOperations.open();
-        list = dataOperations.getAllVechile(null,null);
 
         gridView = (GridView) findViewById(R.id.gridView);
         adapter = new VechileListAdapter(VechileList.this , R.layout.activity_vechile_item, list);
@@ -42,6 +43,30 @@ public class VechileList extends AppCompatActivity {
 
         adapter.notifyDataSetChanged();
 
+        FirebaseDatabase database = FirebaseDatabase.getInstance();
+        final DatabaseReference ref = database.getReference("user").child(FirebaseAuth.getInstance().getCurrentUser().getUid()).child("vehicle");
+
+        ref.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                for (DataSnapshot snapshot : dataSnapshot.getChildren()) {
+                    list.add(snapshot.getValue(Kendaraan.class));
+                }
+//                Kendaraan kendaraan = dataSnapshot.getValue(Kendaraan.class);
+//                System.out.println(kendaraan);
+
+                gridView = (GridView) findViewById(R.id.gridView);
+                adapter = new VechileListAdapter(VechileList.this , R.layout.activity_vechile_item, list);
+                gridView.setAdapter(adapter);
+
+
+            }
+
+            @Override
+            public void onCancelled(DatabaseError databaseError) {
+                System.out.println("The read failed: " + databaseError.getCode());
+            }
+        });
     }
 
     @Override

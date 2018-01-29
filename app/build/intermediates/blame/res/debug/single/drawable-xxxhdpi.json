@@ -1,24 +1,7 @@
 [
     {
-<<<<<<< HEAD
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_search_black_24dp.png",
-        "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_search_black_24dp.png"
-    },
-    {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/home.png",
-        "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-xxxhdpi/home.png"
-    },
-    {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/met_ic_clear.png",
-        "source": "/root/.android/build-cache/38602f7925c6890d130c47a2d354d297a68b444f/output/res/drawable-xxxhdpi/met_ic_clear.png"
-    },
-    {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/vehicle.png",
-        "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-xxxhdpi/vehicle.png"
-=======
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/account.png",
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xxxhdpi/account.png"
->>>>>>> a29afb77a8eaba69f708e7e1142d82466b6d12e7
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/vehicle.png",
@@ -39,9 +22,5 @@
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_search_black_24dp.png",
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_search_black_24dp.png"
-    },
-    {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/direct.png",
-        "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-xxxhdpi/direct.png"
     }
 ]

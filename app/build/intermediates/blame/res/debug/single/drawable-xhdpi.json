@@ -12,36 +12,15 @@
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xhdpi/vehicle.png"
     },
     {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi/vehicle.png",
-        "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-xhdpi/vehicle.png"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_search_black_24dp.png",
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_search_black_24dp.png"
-    },
-    {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_search_black_24dp.png",
-        "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_search_black_24dp.png"
-    },
-    {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi/met_ic_clear.png",
-        "source": "/root/.android/build-cache/38602f7925c6890d130c47a2d354d297a68b444f/output/res/drawable-xhdpi/met_ic_clear.png"
-    },
-    {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi/direct.png",
-        "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-xhdpi/direct.png"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi/home.png",
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xhdpi/home.png"
     },
     {
-<<<<<<< HEAD
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi/home.png",
-        "source": "/home/mika/Documents/Ngabensin/app/build/generated/res/pngs/debug/drawable-xhdpi/home.png"
-=======
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi/account.png",
         "source": "/home/adit/Ngabensin/app/build/generated/res/pngs/debug/drawable-xhdpi/account.png"
->>>>>>> a29afb77a8eaba69f708e7e1142d82466b6d12e7
     }
 ]

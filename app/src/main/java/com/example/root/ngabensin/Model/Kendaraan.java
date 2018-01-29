@@ -5,15 +5,17 @@ package com.example.root.ngabensin.Model;
  */
 
 public class Kendaraan {
+    public String fotoKendaraan;
     public String namaKendaraan;
     public String jenisKendaraan;
 
     public Kendaraan() {
     }
 
-    public Kendaraan(String namaKendaraan, String jenisKendaraan) {
+    public Kendaraan(String namaKendaraan, String jenisKendaraan,String fotoKendaraan) {
         this.namaKendaraan = namaKendaraan;
         this.jenisKendaraan = jenisKendaraan;
+        this.fotoKendaraan = fotoKendaraan;
 
     }
 
@@ -32,4 +34,13 @@ public class Kendaraan {
     public void setJenisKendaraan(String jenisKendaraan) {
         this.jenisKendaraan = jenisKendaraan;
     }
+
+    public String getFotoKendaraan() {
+        return fotoKendaraan;
+    }
+
+    public void setFotoKendaraan(String fotoKendaraan) {
+        this.fotoKendaraan = fotoKendaraan;
+    }
+
 }

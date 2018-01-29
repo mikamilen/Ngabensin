@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "/home/mika/Documents/Ngabensin/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 45,
-                    "endOffset": 96
-                },
-                "from": {
-                    "file": "/root/.android/build-cache/1d24467215d45e6fa4d5cfb2a704f06f0e1d5865/output/res/values/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 45,
-                        "endOffset": 270
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/home/adit/Ngabensin/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {

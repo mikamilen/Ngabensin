@@ -4,14 +4,6 @@
         "source": "/home/adit/Ngabensin/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
-        "source": "/home/mika/Documents/Ngabensin/app/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/mipmap-mdpi/logo.png",
-        "source": "/home/mika/Documents/Ngabensin/app/src/main/res/mipmap-mdpi/logo.png"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/mipmap-mdpi/logo.png",
         "source": "/home/adit/Ngabensin/app/src/main/res/mipmap-mdpi/logo.png"
     }

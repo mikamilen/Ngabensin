@@ -57,11 +57,13 @@ public class Account extends Fragment {
             public void onClick(View v) {
                 FirebaseAuth.getInstance().signOut();
                 Intent intent = new Intent(getActivity(),LoginActivity.class);
-                startActivity(intent);
+
 
                 FirebaseDatabase database = FirebaseDatabase.getInstance();
                 final DatabaseReference dataUser = database.getReference("user").child(FirebaseAuth.getInstance()
                         .getCurrentUser().getUid());
+
+
 
                 dataUser.addValueEventListener(new ValueEventListener() {
                     @Override
@@ -80,6 +82,8 @@ public class Account extends Fragment {
                         Email.setText(String.valueOf(email));
                         Password.setText(String.valueOf(password));
 
+
+
                     }
 
                     @Override
@@ -88,16 +92,16 @@ public class Account extends Fragment {
 
 
                     }
+
+
                 });
+                startActivity(intent);
+                getActivity().finish();
 
 
             }
 
         });
-
-
-
-
 
     }
 

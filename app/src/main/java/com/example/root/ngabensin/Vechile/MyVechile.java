@@ -2,16 +2,25 @@ package com.example.root.ngabensin.Vechile;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.GridView;
+import android.widget.TextView;
 
 import com.example.root.ngabensin.Adapter.VechileListAdapter;
+import com.example.root.ngabensin.Model.Kendaraan;
+import com.example.root.ngabensin.Model.detilBensin;
 import com.example.root.ngabensin.R;
-import com.example.root.ngabensin.SQLiteOperation;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
 
@@ -21,10 +30,9 @@ public class MyVechile extends Fragment {
 
     private int mPage;
     GridView gridView;
-    ArrayList<VechileItem> list;
+    ArrayList<Kendaraan> list;
     VechileListAdapter adapter;
 
-    SQLiteOperation dataOperations;
 
     public static MyVechile newInstance(int page, String title) {
         Bundle args = new Bundle();
@@ -57,17 +65,27 @@ public class MyVechile extends Fragment {
                 startActivity(i);
             }
         });
-
+//
         list = new ArrayList<>();
-        dataOperations = new SQLiteOperation(getActivity());
-        dataOperations.open();
-        list = dataOperations.getAllVechile(null,null);
-
-        gridView = (GridView) view.findViewById(R.id.gridView);
-        adapter = new VechileListAdapter(getActivity() , R.layout.activity_vechile_item, list);
-        gridView.setAdapter(adapter);
-
-        adapter.notifyDataSetChanged();
+//        dataOperations = new SQLiteOperation(getActivity());
+//        dataOperations.open();
+//        list = dataOperations.getAllVechile(null,null);
+//
+//        gridView = (GridView) view.findViewById(R.id.gridView);
+//        adapter = new VechileListAdapter(getActivity() , R.layout.activity_vechile_item, list);
+//        gridView.setAdapter(adapter);
+//
+//        adapter.notifyDataSetChanged();
         return view;
+
+
+
+    }
+
+    @Override
+    public void onViewCreated(final View view, @Nullable Bundle savedInstanceState) {
+        super.onViewCreated(view, savedInstanceState);
+
+
     }
 }

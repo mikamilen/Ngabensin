@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import com.example.root.ngabensin.Adapter.ListViewPagerAdapter;
 import com.example.root.ngabensin.Model.FueltripModel;
@@ -38,7 +39,7 @@ public class ChooseVehicle extends AppCompatActivity {
         spinner.setItems("Featured", "My Vehicle");
         spinner.setOnItemSelectedListener(new MaterialSpinner.OnItemSelectedListener<String>() {
 
-            @Override public void onItemSelected(MaterialSpinner view, int position, long id, String item) {
+            @Override public void onItemSelected(MaterialSpinner view, int position, long id, final String item) {
                 kendaraanku = item;
 
                 FirebaseDatabase database = FirebaseDatabase.getInstance();
@@ -47,9 +48,19 @@ public class ChooseVehicle extends AppCompatActivity {
                 tDataKendaraan.addValueEventListener(new ValueEventListener() {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {
-                        Kendaraan kendaraan = dataSnapshot.getValue(Kendaraan.class);
-                        String namaKen = kendaraan.getNamaKendaraan();
-                        String jenisKen = kendaraan.getJenisKendaraan();
+
+                        if (kendaraanku == "Featured"){
+                            Toast.makeText(ChooseVehicle.this, "belum ada", Toast.LENGTH_SHORT).show();
+
+                        }
+                        else{
+//                            Kendaraan kendaraan = dataSnapshot.getValue(Kendaraan.class);
+//                            String fotoKen = kendaraan.
+//                            String namaKend = kendaraan.getNamaKendaraan();
+//                            String jenisKen = kendaraan.getJenisKendaraan();
+
+                        }
+
 
                     }
 

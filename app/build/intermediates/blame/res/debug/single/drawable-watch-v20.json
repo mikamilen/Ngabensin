@@ -8,19 +8,7 @@
         "source": "/home/adit/.android/build-cache/6fef6e4c5373ae5fdc9ac18a1dfb329f45bb74bf/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
     },
     {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
-        "source": "/root/.android/build-cache/d4032ecf2f0d1479640b3af79f6fe06f3d5f3321/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
         "source": "/home/adit/.android/build-cache/6fef6e4c5373ae5fdc9ac18a1dfb329f45bb74bf/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
-    },
-    {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
-        "source": "/root/.android/build-cache/d4032ecf2f0d1479640b3af79f6fe06f3d5f3321/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
-        "merged": "/home/mika/Documents/Ngabensin/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
-        "source": "/root/.android/build-cache/d4032ecf2f0d1479640b3af79f6fe06f3d5f3321/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
     }
 ]

@@ -3,17 +3,21 @@ package com.example.root.ngabensin.Adapter;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
+import com.example.root.ngabensin.Model.Kendaraan;
 import com.example.root.ngabensin.R;
-import com.example.root.ngabensin.Vechile.VechileItem;
 
 import java.util.ArrayList;
+
+import static android.content.ContentValues.TAG;
 
 /**
  * Created by sep on 13/01/18.
@@ -23,10 +27,10 @@ public class VechileListAdapter extends BaseAdapter {
 
     private Context context;
     private int layout;
-    private ArrayList<VechileItem> vechilelist;
+    private ArrayList<Kendaraan> vechilelist;
     private LayoutInflater inflater = null;
 
-    public VechileListAdapter(Context context, int layout, ArrayList<VechileItem> vechilelist) {
+    public VechileListAdapter(Context context, int layout, ArrayList<Kendaraan> vechilelist) {
         this.context = context;
         this.layout = layout;
         this.vechilelist = vechilelist;
@@ -49,7 +53,7 @@ public class VechileListAdapter extends BaseAdapter {
     }
 
     private class ViewHolder {
-//        ImageView imageView;
+        ImageView imageView;
         TextView txtName, txtJenis;
     }
 
@@ -65,18 +69,26 @@ public class VechileListAdapter extends BaseAdapter {
         holder.txtName = (TextView) convertView.findViewById(R.id.textName);
         holder.txtJenis = (TextView) convertView.findViewById(R.id.textJenis);
         holder.txtJenis = (TextView) convertView.findViewById(R.id.textJenis);
-//        holder.imageView = (ImageView) convertView.findViewById(R.id.imageView);
+        holder.imageView = (ImageView) convertView.findViewById(R.id.imageView);
 
 
-        VechileItem vechileItem = vechilelist.get(position);
+        Kendaraan vechileItem = vechilelist.get(position);
 
-        holder.txtName.setText(vechileItem.getNmkendaraan());
-        holder.txtJenis.setText(vechileItem.getJnkendaraan());
+        holder.txtName.setText(vechileItem.getNamaKendaraan());
+        holder.txtJenis.setText(vechileItem.getJenisKendaraan());
 
-//        byte[] vechileImage = vechileItem.getImage();
-//        Bitmap bitmap = BitmapFactory.decodeByteArray(vechileImage, 0, vechileImage.length);
-//        holder.imageView.setImageBitmap(bitmap);
-
+        if (vechileItem.getFotoKendaraan().equals("satu")) {
+            holder.imageView.setImageResource(R.drawable.motornew);
+        }
+        else if (vechileItem.getFotoKendaraan().equals("dua")) {
+            holder.imageView.setImageResource(R.drawable.account);
+        }
+        else if (vechileItem.getFotoKendaraan().equals("tiga")) {
+            holder.imageView.setImageResource(R.drawable.home);
+        }
+        else{
+            Log.d(TAG, "goblog lieur");
+        }
         return convertView;
 
 
