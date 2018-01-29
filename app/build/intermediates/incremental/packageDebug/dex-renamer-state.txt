@@ -1,0 +1,7 @@
+#Mon Jan 29 11:18:15 WIB 2018
+base.0=/home/adit/Ngabensin/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8ab38b6ad4f3961c7f46dea3bfa8b093b9224a9e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/adit/Ngabensin/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_939880ac4600475c8ea3f0b56a7d160be37fd04a/classes.dex
+base.1=/home/adit/Ngabensin/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_939880ac4600475c8ea3f0b56a7d160be37fd04a
+file.0=/home/adit/Ngabensin/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8ab38b6ad4f3961c7f46dea3bfa8b093b9224a9e/classes.dex
