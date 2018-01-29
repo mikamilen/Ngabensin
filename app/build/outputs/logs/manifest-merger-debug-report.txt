@@ -218,6 +218,7 @@ ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:66:9-51
 		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:66:19-39
 uses-sdk
 INJECTED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /home/adit/.android/build-cache/ff8b9586d127ad33cb7c09efa7bb5b8f01914504/output/AndroidManifest.xml:18:5-42
 MERGED from [com.xw.repo:bubbleseekbar:3.5-lite] /home/adit/.android/build-cache/da21a17e472e34740783e066a2511a04fcb9b7af/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.gms:play-services:11.0.4] /home/adit/.android/build-cache/66b2616d580fd0b4228a329ae1094fa330bb9db4/output/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-ads:11.0.4] /home/adit/.android/build-cache/95576a83707361cb4bff16ff202eccf8fca298f9/output/AndroidManifest.xml:17:5-43

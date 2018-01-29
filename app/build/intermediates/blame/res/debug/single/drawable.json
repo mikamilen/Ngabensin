@@ -76,10 +76,6 @@
         "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/motornew.png",
-        "source": "/home/adit/Ngabensin/app/src/main/res/drawable/motornew.png"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_vol_type_audiotrack_dark.xml",
         "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_vol_type_audiotrack_dark.xml"
     },
@@ -242,6 +238,10 @@
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
         "source": "/home/adit/.android/build-cache/a5a6c68da1cd15759438cf634f41d814926c6b5a/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/satu.png",
+        "source": "/home/adit/Ngabensin/app/src/main/res/drawable/satu.png"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",

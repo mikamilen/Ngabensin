@@ -1,17 +1,8 @@
 package com.example.root.ngabensin.Vechile;
 
-import android.Manifest;
 import android.app.DatePickerDialog;
 import android.content.Intent;
-import android.content.pm.PackageManager;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
-import android.graphics.drawable.BitmapDrawable;
-import android.net.Uri;
 import android.os.Bundle;
-import android.support.annotation.NonNull;
-import android.support.v4.app.ActivityCompat;
-import android.support.v4.app.Fragment;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -22,27 +13,16 @@ import android.widget.Toast;
 
 
 import com.example.root.ngabensin.Adapter.ListViewPagerAdapter;
-import com.example.root.ngabensin.ChooseFuel;
-import com.example.root.ngabensin.ChooseVehicle;
 import com.example.root.ngabensin.MainMenu;
 import com.example.root.ngabensin.Model.FueltripModel;
 import com.example.root.ngabensin.Model.Kendaraan;
 import com.example.root.ngabensin.Model.User;
 import com.example.root.ngabensin.R;
 import com.example.root.ngabensin.SQLiteHelper;
-import com.example.root.ngabensin.SignUpActivity;
 import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.auth.FirebaseUser;
-import com.google.firebase.database.DataSnapshot;
-import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.database.ValueEventListener;
-import com.example.root.ngabensin.Model.User;
 
-import java.io.ByteArrayOutputStream;
-import java.io.FileNotFoundException;
-import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -265,9 +245,9 @@ public class FrmVechile extends AppCompatActivity {
 
     private List<FueltripModel> getImage(){
         List<FueltripModel> models = new ArrayList<>();
-        models.add(new FueltripModel(R.drawable.motornew, "image1"));
-        models.add(new FueltripModel(R.drawable.motornew, "image2"));
-        models.add(new FueltripModel(R.drawable.motornew, "image3"));
+        models.add(new FueltripModel(R.drawable.satu, "image1"));
+        models.add(new FueltripModel(R.drawable.satu, "image2"));
+        models.add(new FueltripModel(R.drawable.satu, "image3"));
         return models;
     }
 }

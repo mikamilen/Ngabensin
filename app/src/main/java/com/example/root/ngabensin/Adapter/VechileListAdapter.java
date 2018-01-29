@@ -1,8 +1,6 @@
 package com.example.root.ngabensin.Adapter;
 
 import android.content.Context;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,7 +8,6 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.example.root.ngabensin.Model.Kendaraan;
 import com.example.root.ngabensin.R;
@@ -78,7 +75,7 @@ public class VechileListAdapter extends BaseAdapter {
         holder.txtJenis.setText(vechileItem.getJenisKendaraan());
 
         if (vechileItem.getFotoKendaraan().equals("satu")) {
-            holder.imageView.setImageResource(R.drawable.motornew);
+            holder.imageView.setImageResource(R.drawable.satu);
         }
         else if (vechileItem.getFotoKendaraan().equals("dua")) {
             holder.imageView.setImageResource(R.drawable.account);

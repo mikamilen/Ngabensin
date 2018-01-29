@@ -26,12 +26,12 @@ public final class R {
         public static final int ms__popup_padding_top = 0x7f0a00db;
     }
     public static final class drawable {
-        public static final int ms__arrow = 0x7f020155;
-        public static final int ms__drawable = 0x7f020156;
-        public static final int ms__drop_down_shadow = 0x7f020157;
-        public static final int ms__menu_down = 0x7f020158;
-        public static final int ms__selector = 0x7f020159;
-        public static final int ms__shadow_background = 0x7f02015a;
+        public static final int ms__arrow = 0x7f020154;
+        public static final int ms__drawable = 0x7f020155;
+        public static final int ms__drop_down_shadow = 0x7f020156;
+        public static final int ms__menu_down = 0x7f020157;
+        public static final int ms__selector = 0x7f020158;
+        public static final int ms__shadow_background = 0x7f020159;
     }
     public static final class id {
         public static final int fill_parent = 0x7f100069;

@@ -92,12 +92,12 @@
         "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable-xhdpi-v4/quantum_ic_pause_white_24.png"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_mr_button_connecting_04_dark.png",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable-xhdpi-v4/ic_mr_button_connecting_04_dark.png"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/quantum_ic_play_circle_filled_white_36.png",
         "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable-xhdpi-v4/quantum_ic_play_circle_filled_white_36.png"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_mr_button_connecting_04_dark.png",
+        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable-xhdpi-v4/ic_mr_button_connecting_04_dark.png"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
@@ -124,12 +124,12 @@
         "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable-xhdpi-v4/ic_mr_button_connected_01_light.png"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_mr_button_connecting_10_light.png",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable-xhdpi-v4/ic_mr_button_connecting_10_light.png"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_mr_button_connecting_20_light.png",
         "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable-xhdpi-v4/ic_mr_button_connecting_20_light.png"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_mr_button_connecting_10_light.png",
+        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable-xhdpi-v4/ic_mr_button_connecting_10_light.png"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
@@ -188,12 +188,12 @@
         "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable-xhdpi-v4/ic_mr_button_connected_10_dark.png"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_mr_button_connecting_12_dark.png",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable-xhdpi-v4/ic_mr_button_connecting_12_dark.png"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/quantum_ic_skip_next_white_24.png",
         "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable-xhdpi-v4/quantum_ic_skip_next_white_24.png"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_mr_button_connecting_12_dark.png",
+        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable-xhdpi-v4/ic_mr_button_connecting_12_dark.png"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/places_ic_clear.png",
@@ -284,12 +284,12 @@
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_mr_button_connecting_14_dark.png",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable-xhdpi-v4/ic_mr_button_connecting_14_dark.png"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_mr_button_connecting_14_dark.png",
+        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable-xhdpi-v4/ic_mr_button_connecting_14_dark.png"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_mr_button_connected_22_light.png",
@@ -320,12 +320,12 @@
         "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable-xhdpi-v4/quantum_ic_art_track_grey600_48.png"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_mr_button_connected_19_dark.png",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable-xhdpi-v4/ic_mr_button_connected_19_dark.png"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/quantum_ic_play_arrow_grey600_36.png",
         "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable-xhdpi-v4/quantum_ic_play_arrow_grey600_36.png"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_mr_button_connected_19_dark.png",
+        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable-xhdpi-v4/ic_mr_button_connected_19_dark.png"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_vol_type_tv_dark.png",

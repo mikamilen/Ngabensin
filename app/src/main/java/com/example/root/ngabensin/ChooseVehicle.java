@@ -11,7 +11,6 @@ import android.widget.Toast;
 import com.example.root.ngabensin.Adapter.ListViewPagerAdapter;
 import com.example.root.ngabensin.Model.FueltripModel;
 import com.example.root.ngabensin.Model.Kendaraan;
-import com.example.root.ngabensin.Model.User;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DataSnapshot;
@@ -29,7 +28,7 @@ public class ChooseVehicle extends AppCompatActivity {
     Button btnNext;
     String kendaraanku = "";
     FirebaseUser mUser;
-
+    String data ;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -46,26 +45,18 @@ public class ChooseVehicle extends AppCompatActivity {
 
                 FirebaseDatabase database = FirebaseDatabase.getInstance();
 
-                DatabaseReference mRef = database.getReference("user").child(FirebaseAuth.getInstance().getCurrentUser().getUid()).child("vehicle").child("Ha");
+                DatabaseReference mRef = database.getReference("user").child(FirebaseAuth.getInstance().getCurrentUser().getUid()).child("vehicle");
                 mRef.addValueEventListener(new ValueEventListener() {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {
 
-//                        if (kendaraanku == "Featured"){
-//                            Toast.makeText(ChooseVehicle.this, "belum ada", Toast.LENGTH_SHORT).show();
-//
-//                        }
-//                        else if(kendaraanku == "My Vehicle"){
-                            Kendaraan kendaraan = dataSnapshot.getValue(Kendaraan.class);
-//                            String fotoKen = kendaraan.getFotoKendaraan();
-                            String namaKend = kendaraan.getNamaKendaraan();
-                            String jenisKen = kendaraan.getJenisKendaraan();
+                        for(DataSnapshot data : dataSnapshot.getChildren()){
+                            System.out.println(data);
+                            Toast.makeText(ChooseVehicle.this, "ghjg" + data , Toast.LENGTH_LONG).show();
+                        }
 
-                        Toast.makeText(ChooseVehicle.this, "foto" + "nama" + namaKend + "jenis" + jenisKen, Toast.LENGTH_SHORT).show();
 
-//
-//
-//                        }
+
 
 
                     }
@@ -92,13 +83,13 @@ public class ChooseVehicle extends AppCompatActivity {
 
 
 
+
     private List<FueltripModel> getImage() {
         List<FueltripModel> models = new ArrayList<>();
-        models.add(new FueltripModel(R.drawable.motornew, "Hello"));
-        models.add(new FueltripModel(R.drawable.motornew, "Hello1"));
+        models.add(new FueltripModel(R.drawable.satu, "Hello1"));
+        models.add(new FueltripModel(R.drawable.satu, "Hello1"));
         models.add(new FueltripModel(R.drawable.ic_mr_button_connecting_06_dark, "Hello2"));
         return models;
     }
-
 
 }
