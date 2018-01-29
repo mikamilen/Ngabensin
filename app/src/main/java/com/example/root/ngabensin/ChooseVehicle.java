@@ -11,6 +11,8 @@ import android.widget.Toast;
 import com.example.root.ngabensin.Adapter.ListViewPagerAdapter;
 import com.example.root.ngabensin.Model.FueltripModel;
 import com.example.root.ngabensin.Model.Kendaraan;
+import com.example.root.ngabensin.Model.User;
+import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -43,23 +45,27 @@ public class ChooseVehicle extends AppCompatActivity {
                 kendaraanku = item;
 
                 FirebaseDatabase database = FirebaseDatabase.getInstance();
-                final DatabaseReference tDataKendaraan = database.getReference(mUser.getUid().toString()).child(kendaraanku);
 
-                tDataKendaraan.addValueEventListener(new ValueEventListener() {
+                DatabaseReference mRef = database.getReference("user").child(FirebaseAuth.getInstance().getCurrentUser().getUid()).child("vehicle").child("Ha");
+                mRef.addValueEventListener(new ValueEventListener() {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {
 
-                        if (kendaraanku == "Featured"){
-                            Toast.makeText(ChooseVehicle.this, "belum ada", Toast.LENGTH_SHORT).show();
+//                        if (kendaraanku == "Featured"){
+//                            Toast.makeText(ChooseVehicle.this, "belum ada", Toast.LENGTH_SHORT).show();
+//
+//                        }
+//                        else if(kendaraanku == "My Vehicle"){
+                            Kendaraan kendaraan = dataSnapshot.getValue(Kendaraan.class);
+//                            String fotoKen = kendaraan.getFotoKendaraan();
+                            String namaKend = kendaraan.getNamaKendaraan();
+                            String jenisKen = kendaraan.getJenisKendaraan();
 
-                        }
-                        else{
-//                            Kendaraan kendaraan = dataSnapshot.getValue(Kendaraan.class);
-//                            String fotoKen = kendaraan.
-//                            String namaKend = kendaraan.getNamaKendaraan();
-//                            String jenisKen = kendaraan.getJenisKendaraan();
+                        Toast.makeText(ChooseVehicle.this, "foto" + "nama" + namaKend + "jenis" + jenisKen, Toast.LENGTH_SHORT).show();
 
-                        }
+//
+//
+//                        }
 
 
                     }

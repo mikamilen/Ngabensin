@@ -5,42 +5,42 @@ package com.example.root.ngabensin.Model;
  */
 
 public class Kendaraan {
-    public String fotoKendaraan;
-    public String namaKendaraan;
-    public String jenisKendaraan;
+    public String FotoKendaraan;
+    public String NamaKendaraan;
+    public String JenisKendaraan;
 
     public Kendaraan() {
     }
 
     public Kendaraan(String namaKendaraan, String jenisKendaraan,String fotoKendaraan) {
-        this.namaKendaraan = namaKendaraan;
-        this.jenisKendaraan = jenisKendaraan;
-        this.fotoKendaraan = fotoKendaraan;
+        NamaKendaraan = namaKendaraan;
+        JenisKendaraan = jenisKendaraan;
+       FotoKendaraan = fotoKendaraan;
 
     }
 
     public String getNamaKendaraan() {
-        return namaKendaraan;
+        return NamaKendaraan;
     }
 
     public void setNamaKendaraan(String namaKendaraan) {
-        this.namaKendaraan = namaKendaraan;
+        NamaKendaraan = namaKendaraan;
     }
 
     public String getJenisKendaraan() {
-        return jenisKendaraan;
+        return JenisKendaraan;
     }
 
     public void setJenisKendaraan(String jenisKendaraan) {
-        this.jenisKendaraan = jenisKendaraan;
+        JenisKendaraan = jenisKendaraan;
     }
 
     public String getFotoKendaraan() {
-        return fotoKendaraan;
+        return FotoKendaraan;
     }
 
     public void setFotoKendaraan(String fotoKendaraan) {
-        this.fotoKendaraan = fotoKendaraan;
+        FotoKendaraan = fotoKendaraan;
     }
 
 }
