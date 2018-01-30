@@ -63,7 +63,9 @@
         <activity
             android:name=".SignUpActivity"
             android:label="@string/title_activity_sign_up" />
-        <activity android:name=".Home"></activity>
+        <activity android:name=".Home" />
+        <activity android:name=".ResultTrue" />
+        <activity android:name=".ResultFalse"></activity>
     </application>
 
 </manifest>

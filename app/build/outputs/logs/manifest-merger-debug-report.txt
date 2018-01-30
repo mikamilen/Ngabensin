@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:2:1-69:12
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:2:1-71:12
 	package
 		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:3:5-41
 		INJECTED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml
@@ -71,7 +71,7 @@ ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:20:5-72
 	android:name
 		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:20:22-69
 application
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:22:5-67:19
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:22:5-69:19
 MERGED from [com.xw.repo:bubbleseekbar:3.5-lite] /home/adit/.android/build-cache/da21a17e472e34740783e066a2511a04fcb9b7af/output/AndroidManifest.xml:11:5-15:19
 MERGED from [com.google.android.gms:play-services:11.0.4] /home/adit/.android/build-cache/66b2616d580fd0b4228a329ae1094fa330bb9db4/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/adit/.android/build-cache/345fdd8035190039ba0934aede7f704eb4bd7957/output/AndroidManifest.xml:23:5-26:19
@@ -213,9 +213,17 @@ ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:63:9-65:62
 	android:name
 		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:64:13-43
 activity#com.example.root.ngabensin.Home
-ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:66:9-51
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:66:9-42
 	android:name
 		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:66:19-39
+activity#com.example.root.ngabensin.ResultTrue
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:67:9-48
+	android:name
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:67:19-45
+activity#com.example.root.ngabensin.ResultFalse
+ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:68:9-58
+	android:name
+		ADDED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml:68:19-46
 uses-sdk
 INJECTED from /home/adit/Ngabensin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:multidex:1.0.1] /home/adit/.android/build-cache/ff8b9586d127ad33cb7c09efa7bb5b8f01914504/output/AndroidManifest.xml:18:5-42

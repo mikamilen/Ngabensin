@@ -1,4 +1,4 @@
-#Mon Jan 29 21:56:38 WIB 2018
+#Mon Jan 29 22:24:56 WIB 2018
 base.0=/home/adit/Ngabensin/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8ab38b6ad4f3961c7f46dea3bfa8b093b9224a9e
 renamed.1=classes2.dex
 renamed.0=classes.dex

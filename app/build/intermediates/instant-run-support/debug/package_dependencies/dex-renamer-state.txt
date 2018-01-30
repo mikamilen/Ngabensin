@@ -1,4 +1,4 @@
-#Mon Jan 29 08:51:21 WIB 2018
+#Mon Jan 29 22:24:54 WIB 2018
 file.82=/home/adit/Ngabensin/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f28789b982d592ce3ba5911e4de86d416c06632d/classes.dex
 file.81=/home/adit/Ngabensin/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ebce40be94460ac059db64895dec142add53e110/classes.dex
 file.80=/home/adit/Ngabensin/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18ded259c6500dc391396e649c1d19946dbbed09/classes.dex

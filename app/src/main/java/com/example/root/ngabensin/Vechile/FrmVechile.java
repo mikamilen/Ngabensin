@@ -32,6 +32,7 @@ public class FrmVechile extends AppCompatActivity {
     EditText edtNmKendaraan, edtJnKendaraan;
     Button btnChoose, btnAdd, btnList;
     ImageView imageView;
+    List<Kendaraan> models;
 
     private User user;
     private FirebaseDatabase database;
@@ -48,7 +49,7 @@ public class FrmVechile extends AppCompatActivity {
         setContentView(R.layout.activity_frm_vechile);
 
         final ViewPager pager = (ViewPager) findViewById(R.id.viewPager);
-        pager.setAdapter(new ListViewPagerAdapter(getSupportFragmentManager(), getImage()));
+        pager.setAdapter(new ListViewPagerAdapter(getSupportFragmentManager(), models));
 
 
         init();
@@ -243,13 +244,13 @@ public class FrmVechile extends AppCompatActivity {
 
 
 
-    private List<FueltripModel> getImage(){
-        List<FueltripModel> models = new ArrayList<>();
-        models.add(new FueltripModel(R.drawable.satu, "image1"));
-        models.add(new FueltripModel(R.drawable.satu, "image2"));
-        models.add(new FueltripModel(R.drawable.satu, "image3"));
-        return models;
-    }
+//    private List<Kendaraan> models(){
+//        List<FueltripModel> models = new ArrayList<>();
+//        models.add(new FueltripModel(R.drawable.satu, "image1"));
+//        models.add(new FueltripModel(R.drawable.satu, "image2"));
+//        models.add(new FueltripModel(R.drawable.satu, "image3"));
+//        return models;
+//    }
 }
 
 

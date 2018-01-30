@@ -56,8 +56,11 @@ public class Featured extends Fragment {
         ref.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
-                Kendaraan kendaraan = dataSnapshot.getValue(Kendaraan.class);
-                System.out.println(kendaraan);
+
+                for(DataSnapshot data : dataSnapshot.getChildren()){
+                    Kendaraan kendaraan = dataSnapshot.getValue(Kendaraan.class);
+                    System.out.println(kendaraan);
+                }
             }
 
             @Override

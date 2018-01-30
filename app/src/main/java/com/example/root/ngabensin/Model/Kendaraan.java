@@ -1,13 +1,15 @@
 package com.example.root.ngabensin.Model;
 
+import java.io.Serializable;
+
 /**
  * Created by adit on 23/01/18.
  */
 
-public class Kendaraan {
-    public String FotoKendaraan;
-    public String NamaKendaraan;
-    public String JenisKendaraan;
+public class Kendaraan implements Serializable{
+    private String FotoKendaraan;
+    private String NamaKendaraan;
+    private String JenisKendaraan;
 
     public Kendaraan() {
     }
@@ -19,28 +21,15 @@ public class Kendaraan {
 
     }
 
-    public String getNamaKendaraan() {
-        return NamaKendaraan;
+    public String getFotoKendaraan() {
+        return FotoKendaraan;
     }
 
-    public void setNamaKendaraan(String namaKendaraan) {
-        NamaKendaraan = namaKendaraan;
+    public String getNamaKendaraan() {
+        return NamaKendaraan;
     }
 
     public String getJenisKendaraan() {
         return JenisKendaraan;
     }
-
-    public void setJenisKendaraan(String jenisKendaraan) {
-        JenisKendaraan = jenisKendaraan;
-    }
-
-    public String getFotoKendaraan() {
-        return FotoKendaraan;
-    }
-
-    public void setFotoKendaraan(String fotoKendaraan) {
-        FotoKendaraan = fotoKendaraan;
-    }
-
 }

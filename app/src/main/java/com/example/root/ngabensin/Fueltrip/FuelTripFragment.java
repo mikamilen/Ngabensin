@@ -14,6 +14,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.example.root.ngabensin.Model.FueltripModel;
+import com.example.root.ngabensin.Model.Kendaraan;
 import com.example.root.ngabensin.R;
 
 import java.util.List;
@@ -21,9 +22,9 @@ import java.util.List;
 public class FuelTripFragment extends Fragment {
 
     public static final String DATA = "data";
-    private FueltripModel model;
+    private Kendaraan model;
 
-    public static FuelTripFragment newInstance(FueltripModel model) {
+    public static FuelTripFragment newInstance(Kendaraan model) {
         FuelTripFragment fragment = new FuelTripFragment();
         Bundle args = new Bundle();
         args.putSerializable(DATA, model);
@@ -38,14 +39,14 @@ public class FuelTripFragment extends Fragment {
         ImageView img = (ImageView) view.findViewById(R.id.image_trip);
         TextView text = (TextView) view.findViewById(R.id.text_image);
 
-        text.setText(model.name);
-        img.setImageResource(model.image);
+        text.setText(model.getNamaKendaraan());
+//        img.setImageResource(model.image);
         return view;
     }
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        model = (FueltripModel) getArguments().getSerializable(DATA);
+        model = (Kendaraan) getArguments().getSerializable(DATA);
     }
 }

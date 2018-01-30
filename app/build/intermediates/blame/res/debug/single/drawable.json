@@ -36,12 +36,12 @@
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_skip_ad_label_border.xml"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
         "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
+        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_skip_ad_label_border.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
@@ -132,12 +132,12 @@
         "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_dialog_close_dark.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
-        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_stop.xml"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
         "source": "/home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
+        "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_mini_controller_stop.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_vol_type_audiotrack_light.xml",
@@ -364,16 +364,16 @@
         "source": "/home/adit/.android/build-cache/f53e83d6491d2f15ac8a75031683a5e59f617502/output/res/drawable/cast_ic_notification_play.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_media_play_light.xml",
-        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_media_play_light.xml"
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
         "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable/abc_dialog_material_background.xml"
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_media_play_light.xml",
+        "source": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/drawable/mr_media_play_light.xml"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable/mr_media_pause_dark.xml",

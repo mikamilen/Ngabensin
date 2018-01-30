@@ -268,12 +268,12 @@
         "source": "/home/adit/.android/build-cache/8dbc4abc2706a0d8599e2b0db6a8d110861d7175/output/res/drawable-hdpi-v4/powered_by_google_dark.png"
     },
     {
-        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
-        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/design_ic_visibility.png",
         "source": "/home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/res/drawable-hdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quantum_ic_replay_30_white_24.png",

@@ -29,43 +29,48 @@ public class ChooseVehicle extends AppCompatActivity {
     String kendaraanku = "";
     FirebaseUser mUser;
     String data ;
+    List<Kendaraan> models;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_choose_vehicle);
+        models = new ArrayList<>();
         ViewPager mViewPager = (ViewPager) findViewById(R.id.viewpager);
-        mViewPager.setAdapter(new ListViewPagerAdapter(getSupportFragmentManager(), getImage()));
+        mViewPager.setAdapter(new ListViewPagerAdapter(getSupportFragmentManager(), models));
 
         MaterialSpinner spinner = (MaterialSpinner) findViewById(R.id.spVehicle);
         spinner.setItems("Featured", "My Vehicle");
+        FirebaseDatabase database = FirebaseDatabase.getInstance();
+
+        DatabaseReference mRef = database.getReference("user").child(FirebaseAuth.getInstance().getCurrentUser().getUid()).child("vehicle");
+        mRef.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+
+                for(DataSnapshot data : dataSnapshot.getChildren()){
+//                    System.out.println(data);
+//                    Toast.makeText(ChooseVehicle.this, "ghjg" + data , Toast.LENGTH_LONG).show();
+                    models.add(data.getValue(Kendaraan.class));
+
+
+                }
+
+
+
+
+
+            }
+
+            @Override
+            public void onCancelled(DatabaseError databaseError) {
+
+            }
+        });
         spinner.setOnItemSelectedListener(new MaterialSpinner.OnItemSelectedListener<String>() {
 
             @Override public void onItemSelected(MaterialSpinner view, int position, long id, final String item) {
-                kendaraanku = item;
-
-                FirebaseDatabase database = FirebaseDatabase.getInstance();
-
-                DatabaseReference mRef = database.getReference("user").child(FirebaseAuth.getInstance().getCurrentUser().getUid()).child("vehicle");
-                mRef.addValueEventListener(new ValueEventListener() {
-                    @Override
-                    public void onDataChange(DataSnapshot dataSnapshot) {
-
-                        for(DataSnapshot data : dataSnapshot.getChildren()){
-                            System.out.println(data);
-                            Toast.makeText(ChooseVehicle.this, "ghjg" + data , Toast.LENGTH_LONG).show();
-                        }
 
 
-
-
-
-                    }
-
-                    @Override
-                    public void onCancelled(DatabaseError databaseError) {
-
-                    }
-                });
             }
 
         });
@@ -84,12 +89,12 @@ public class ChooseVehicle extends AppCompatActivity {
 
 
 
-    private List<FueltripModel> getImage() {
-        List<FueltripModel> models = new ArrayList<>();
-        models.add(new FueltripModel(R.drawable.satu, "Hello1"));
-        models.add(new FueltripModel(R.drawable.satu, "Hello1"));
-        models.add(new FueltripModel(R.drawable.ic_mr_button_connecting_06_dark, "Hello2"));
-        return models;
-    }
+//    private List<FueltripModel> getImage() {
+//        List<FueltripModel> models = new ArrayList<>();
+//        models.add(new FueltripModel(R.drawable.satu, "Hello1"));
+//        models.add(new FueltripModel(R.drawable.satu, "Hello1"));
+//        models.add(new FueltripModel(R.drawable.ic_mr_button_connecting_06_dark, "Hello2"));
+//        return models;
+//    }
 
 }

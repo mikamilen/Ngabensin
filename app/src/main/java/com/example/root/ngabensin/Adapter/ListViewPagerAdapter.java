@@ -8,6 +8,7 @@ import android.view.View;
 
 import com.example.root.ngabensin.Fueltrip.FuelTripFragment;
 import com.example.root.ngabensin.Model.FueltripModel;
+import com.example.root.ngabensin.Model.Kendaraan;
 
 import java.util.List;
 
@@ -17,16 +18,16 @@ import java.util.List;
 
 public class ListViewPagerAdapter extends FragmentPagerAdapter{
 
-    private List<FueltripModel> modelList;
+    private List<Kendaraan> modelList;
 
-    public ListViewPagerAdapter(FragmentManager fm, List<FueltripModel> modelList) {
+    public ListViewPagerAdapter(FragmentManager fm, List<Kendaraan> modelList) {
         super(fm);
         this.modelList = modelList;
     }
 
     @Override
     public Fragment getItem(int position) {
-        FueltripModel fueltripModel = modelList.get(position);
+        Kendaraan fueltripModel = modelList.get(position);
         return FuelTripFragment.newInstance(fueltripModel);
     }
 
