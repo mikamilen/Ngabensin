@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/home/adit/Ngabensin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+=======
+        "outputFile": "/home/mika/Ngabensin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 119
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 188
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,

@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/home/adit/Ngabensin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+=======
+        "outputFile": "/home/mika/Ngabensin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 129
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/6fef6e4c5373ae5fdc9ac18a1dfb329f45bb74bf/output/res/values-watch-v20/values.xml",
+=======
+                    "file": "/root/.android/build-cache/d4032ecf2f0d1479640b3af79f6fe06f3d5f3321/output/res/values-watch-v20/values.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -30,7 +38,11 @@
                     "endOffset": 209
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/6fef6e4c5373ae5fdc9ac18a1dfb329f45bb74bf/output/res/values-watch-v20/values.xml",
+=======
+                    "file": "/root/.android/build-cache/d4032ecf2f0d1479640b3af79f6fe06f3d5f3321/output/res/values-watch-v20/values.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -49,7 +61,11 @@
                     "endOffset": 288
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/6fef6e4c5373ae5fdc9ac18a1dfb329f45bb74bf/output/res/values-watch-v20/values.xml",
+=======
+                    "file": "/root/.android/build-cache/d4032ecf2f0d1479640b3af79f6fe06f3d5f3321/output/res/values-watch-v20/values.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
@@ -68,7 +84,11 @@
                     "endOffset": 367
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/6fef6e4c5373ae5fdc9ac18a1dfb329f45bb74bf/output/res/values-watch-v20/values.xml",
+=======
+                    "file": "/root/.android/build-cache/d4032ecf2f0d1479640b3af79f6fe06f3d5f3321/output/res/values-watch-v20/values.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 7,
                         "startColumn": 0,
@@ -87,7 +107,11 @@
                     "endOffset": 458
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/6fef6e4c5373ae5fdc9ac18a1dfb329f45bb74bf/output/res/values-watch-v20/values.xml",
+=======
+                    "file": "/root/.android/build-cache/d4032ecf2f0d1479640b3af79f6fe06f3d5f3321/output/res/values-watch-v20/values.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
@@ -106,7 +130,11 @@
                     "endOffset": 539
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/6fef6e4c5373ae5fdc9ac18a1dfb329f45bb74bf/output/res/values-watch-v20/values.xml",
+=======
+                    "file": "/root/.android/build-cache/d4032ecf2f0d1479640b3af79f6fe06f3d5f3321/output/res/values-watch-v20/values.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 9,
                         "startColumn": 0,
@@ -125,7 +153,11 @@
                     "endOffset": 630
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/6fef6e4c5373ae5fdc9ac18a1dfb329f45bb74bf/output/res/values-watch-v20/values.xml",
+=======
+                    "file": "/root/.android/build-cache/d4032ecf2f0d1479640b3af79f6fe06f3d5f3321/output/res/values-watch-v20/values.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 10,
                         "startColumn": 0,
@@ -144,7 +176,11 @@
                     "endOffset": 710
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/6fef6e4c5373ae5fdc9ac18a1dfb329f45bb74bf/output/res/values-watch-v20/values.xml",
+=======
+                    "file": "/root/.android/build-cache/d4032ecf2f0d1479640b3af79f6fe06f3d5f3321/output/res/values-watch-v20/values.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 11,
                         "startColumn": 0,

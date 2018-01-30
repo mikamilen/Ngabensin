@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/home/adit/Ngabensin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+=======
+        "outputFile": "/home/mika/Ngabensin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 154
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/c3882f4ca75b7164b194a5e8b3d5865a83800205/output/res/values-en-rSG/values.xml",
+=======
+                    "file": "/root/.android/build-cache/462de06c7d6e4a672c8006a7b7f415ab62a07b0b/output/res/values-en-rSG/values.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,

@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/home/adit/Ngabensin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo-rLA/values-lo-rLA.xml",
+=======
+        "outputFile": "/home/mika/Ngabensin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 153
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 261
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +61,11 @@
                     "endOffset": 384
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +84,11 @@
                     "endOffset": 481
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +107,11 @@
                     "endOffset": 588
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +130,11 @@
                     "endOffset": 673
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +153,11 @@
                     "endOffset": 778
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +176,11 @@
                     "endOffset": 890
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +199,11 @@
                     "endOffset": 967
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -182,7 +222,11 @@
                     "endOffset": 1045
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -201,7 +245,11 @@
                     "endOffset": 1125
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -220,7 +268,11 @@
                     "endOffset": 1232
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -239,7 +291,11 @@
                     "endOffset": 1329
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -258,7 +314,11 @@
                     "endOffset": 1427
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -277,7 +337,11 @@
                     "endOffset": 1532
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -296,7 +360,11 @@
                     "endOffset": 1635
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -315,7 +383,11 @@
                     "endOffset": 1739
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -334,7 +406,11 @@
                     "endOffset": 1861
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -353,7 +429,11 @@
                     "endOffset": 1957
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -372,7 +452,11 @@
                     "endOffset": 2058
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -391,7 +475,11 @@
                     "endOffset": 2171
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -410,7 +498,11 @@
                     "endOffset": 2286
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -429,7 +521,11 @@
                     "endOffset": 2407
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -448,7 +544,11 @@
                     "endOffset": 2509
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -467,7 +567,11 @@
                     "endOffset": 2594
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -486,7 +590,11 @@
                     "endOffset": 2691
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -505,7 +613,11 @@
                     "endOffset": 2794
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -524,7 +636,11 @@
                     "endOffset": 2888
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -543,7 +659,11 @@
                     "endOffset": 2983
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -562,7 +682,11 @@
                     "endOffset": 3082
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -581,7 +705,11 @@
                     "endOffset": 3174
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -600,7 +728,11 @@
                     "endOffset": 3279
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -619,7 +751,11 @@
                     "endOffset": 3397
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -638,7 +774,11 @@
                     "endOffset": 3486
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -657,7 +797,11 @@
                     "endOffset": 3568
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -676,7 +820,11 @@
                     "endOffset": 3659
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -695,7 +843,11 @@
                     "endOffset": 3760
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -714,7 +866,11 @@
                     "endOffset": 3845
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -733,7 +889,11 @@
                     "endOffset": 3939
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/9f50c78156a283be085e08d5fd7f795834c66d58/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/e9ea086c8d4198395c46d1242cab6e340b92c772/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -752,7 +912,11 @@
                     "endOffset": 4020
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -771,7 +935,11 @@
                     "endOffset": 4121
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/adit/.android/build-cache/4d7db341de7df9bfcb1ba6071b20528d69219355/output/res/values-lo-rLA/values-lo-rLA.xml",
+=======
+                    "file": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/values-lo-rLA/values-lo-rLA.xml",
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

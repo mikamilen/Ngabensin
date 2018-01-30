@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
         "source": "/home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/res/animator-v21/design_appbar_state_list_animator.xml"
+=======
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "/root/.android/build-cache/9ba2bd0e584ccd104834e1126b27e07e07d0e88e/output/res/animator-v21/design_appbar_state_list_animator.xml"
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
     }
 ]

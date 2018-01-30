@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-v21/item_background.xml",
         "source": "/home/adit/.android/build-cache/99c7712e9ef835aa4eee5ca8e36608557b658508/output/res/drawable-v21/item_background.xml"
     },
@@ -38,5 +39,45 @@
     {
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
         "source": "/home/adit/.android/build-cache/b66e1eca1085b3a7e8089a7517017fc4f914be58/output/res/drawable-v21/avd_hide_password.xml"
+=======
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-v21/ms__selector.xml",
+        "source": "/root/.android/build-cache/2596deaa580fb92fb5adb38ba090e02d81445f79/output/res/drawable-v21/ms__selector.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/root/.android/build-cache/9ba2bd0e584ccd104834e1126b27e07e07d0e88e/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/root/.android/build-cache/9ba2bd0e584ccd104834e1126b27e07e07d0e88e/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/root/.android/build-cache/8eb5680d48de96f4cf71f45feb4f3f48f4e11a30/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/root/.android/build-cache/9ba2bd0e584ccd104834e1126b27e07e07d0e88e/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-v21/item_background.xml",
+        "source": "/root/.android/build-cache/ebc97c85678fb8a30c566fbcf3e6669289689575/output/res/drawable-v21/item_background.xml"
+    },
+    {
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/root/.android/build-cache/9ba2bd0e584ccd104834e1126b27e07e07d0e88e/output/res/drawable-v21/avd_hide_password.xml"
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
     }
 ]

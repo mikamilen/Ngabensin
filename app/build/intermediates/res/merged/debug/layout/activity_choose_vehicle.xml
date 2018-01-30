@@ -15,46 +15,49 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Choose Your Vehicle"
-        android:textSize="20dp"
-        android:textColor="#000"
         android:textAlignment="center"
-        android:textStyle="bold"/>
+        android:textColor="#000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
     <LinearLayout
         android:id="@+id/imgVehicle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
         android:layout_below="@+id/txtChooseVehicle"
         android:layout_marginTop="20dp"
-        >
+        android:orientation="horizontal">
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="From"/>
+            android:text="From" />
+
         <com.jaredrummler.materialspinner.MaterialSpinner
             android:id="@+id/spVehicle"
             android:layout_width="300dp"
-            android:layout_height="50dp"
-            >
+            android:layout_height="50dp">
 
         </com.jaredrummler.materialspinner.MaterialSpinner>
     </LinearLayout>
+
     <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
         android:layout_width="match_parent"
         android:layout_height="400dp"
-        android:id="@+id/viewpager"
-        android:layout_below="@id/imgVehicle"/>
+        android:layout_below="@id/imgVehicle" />
+
     <Button
         android:id="@+id/btnNext"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="next"
-        android:textSize="20dp"
-        android:textColor="#fff"
-        android:background="@color/ngabensinPrimary"
+        android:layout_height="40dp"
         android:layout_alignParentBottom="true"
-        />
-
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="next"
+        android:textColor="#fff"
+        android:textSize="20dp" />
 
 
 </RelativeLayout>

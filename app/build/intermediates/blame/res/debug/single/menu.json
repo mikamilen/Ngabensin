@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "/home/adit/Ngabensin/app/build/intermediates/res/merged/debug/menu/menu.xml",
         "source": "/home/adit/Ngabensin/app/src/main/res/menu/menu.xml"
+=======
+        "merged": "/home/mika/Ngabensin/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/home/mika/Ngabensin/app/src/main/res/menu/menu.xml"
+>>>>>>> fc541be596243f4b62f1b6ac2d3c2d3f17a54081
     }
 ]

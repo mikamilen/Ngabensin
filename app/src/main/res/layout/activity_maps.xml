@@ -7,10 +7,10 @@
     android:orientation="vertical">
 
     <android.support.v7.widget.CardView
-        android:layout_gravity="center"
         android:id="@+id/cvChooseLoc"
         android:layout_width="match_parent"
         android:layout_height="70dp"
+        android:layout_gravity="center"
         android:background="#fff"
         map:cardElevation="5dp">
 
@@ -38,39 +38,39 @@
         android:layout_height="match_parent">
 
         <!--<RelativeLayout-->
-            <!--android:id="@+id/locationInfo"-->
-            <!--android:layout_width="match_parent"-->
-            <!--android:layout_height="200dp"-->
-            <!--android:layout_alignParentBottom="true"-->
-            <!--android:layout_marginBottom="30dp"-->
-            <!--android:background="#FFF"-->
-            <!--android:visibility="gone">-->
+        <!--android:id="@+id/locationInfo"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="200dp"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_marginBottom="30dp"-->
+        <!--android:background="#FFF"-->
+        <!--android:visibility="gone">-->
 
-            <!--<LinearLayout-->
-                <!--android:layout_width="match_parent"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:orientation="vertical">-->
+        <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:orientation="vertical">-->
 
-                <!--<TextView-->
-                    <!--android:id="@+id/distance"-->
-                    <!--android:layout_width="match_parent"-->
-                    <!--android:layout_height="wrap_content" />-->
+        <!--<TextView-->
+        <!--android:id="@+id/distance"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" />-->
 
-                <!--<TextView-->
-                    <!--android:id="@+id/duration"-->
-                    <!--android:layout_width="match_parent"-->
-                    <!--android:layout_height="wrap_content" />-->
+        <!--<TextView-->
+        <!--android:id="@+id/duration"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" />-->
 
-                <!--<TextView-->
-                <!--android:id="@+id/curentLocation"-->
-                <!--android:layout_width="match_parent"-->
-                <!--android:layout_height="wrap_content" />-->
+        <!--<TextView-->
+        <!--android:id="@+id/curentLocation"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" />-->
 
-                <!--<TextView-->
-                <!--android:id="@+id/toLocation"-->
-                <!--android:layout_width="match_parent"-->
-                <!--android:layout_height="wrap_content" />-->
-            <!--</LinearLayout>-->
+        <!--<TextView-->
+        <!--android:id="@+id/toLocation"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" />-->
+        <!--</LinearLayout>-->
 
         <!--</RelativeLayout>-->
 
@@ -86,32 +86,33 @@
 
         <android.support.v7.widget.CardView
             android:id="@+id/cvCurrent"
-            android:layout_centerHorizontal="true"
             android:layout_width="370dp"
             android:layout_height="70dp"
-            android:layout_marginTop="20dp"
-            android:layout_below="@id/map">
+            android:layout_below="@id/map"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp">
 
 
             <LinearLayout
-                android:gravity="center"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="#fff"
+                android:gravity="center"
                 android:orientation="horizontal">
+
                 <android.support.design.widget.TextInputLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="8dp"
-                    android:layout_marginBottom="8dp">
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="8dp">
 
-                <EditText
-                    android:id="@+id/curentLocation"
-                    android:layout_width="330dp"
-                    android:layout_height="45dp"
-                    android:ems="10"
-                    android:hint="Current Location"
-                    android:inputType="textPersonName" />
+                    <EditText
+                        android:id="@+id/curentLocation"
+                        android:layout_width="330dp"
+                        android:layout_height="45dp"
+                        android:ems="10"
+                        android:hint="Current Location"
+                        android:inputType="textPersonName" />
                 </android.support.design.widget.TextInputLayout>
 
                 <ImageView
@@ -126,35 +127,33 @@
 
         <android.support.v7.widget.CardView
             android:id="@+id/cvDestination"
-            android:layout_marginTop="10dp"
             android:layout_width="370dp"
             android:layout_height="70dp"
             android:layout_below="@id/cvCurrent"
-            android:layout_centerHorizontal="true">
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp">
 
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="#fff"
-                android:orientation="horizontal"
-                android:gravity="center">
+                android:gravity="center"
+                android:orientation="horizontal">
 
                 <android.support.design.widget.TextInputLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="8dp"
-                    android:layout_marginBottom="8dp">
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="8dp">
 
-
-
-                <EditText
-                    android:id="@+id/toLocation"
-                    android:layout_width="330dp"
-                    android:layout_height="45dp"
-                    android:ems="10"
-                    android:hint="Destination"
-                    android:inputType="textPersonName" />
+                    <EditText
+                        android:id="@+id/toLocation"
+                        android:layout_width="330dp"
+                        android:layout_height="45dp"
+                        android:ems="10"
+                        android:hint="Destination"
+                        android:inputType="textPersonName" />
                 </android.support.design.widget.TextInputLayout>
 
                 <!--<Button-->
@@ -174,46 +173,59 @@
         </android.support.v7.widget.CardView>
 
 
-        <android.support.v7.widget.CardView
-            android:id="@+id/B_submit"
-            android:layout_width="370dp"
-            android:layout_marginTop="10dp"
-            android:layout_height="60dp"
-            android:layout_below="@id/cvDestination"
-            android:background="@color/colorPrimaryDark"
-            android:layout_centerHorizontal="true">
+        <!--<android.support.v7.widget.CardView-->
+        <!--android:id="@+id/B_submit"-->
+        <!--android:layout_width="370dp"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:layout_height="60dp"-->
+        <!--android:layout_below="@id/cvDestination"-->
+        <!--android:background="@color/colorPrimaryDark"-->
+        <!--android:layout_centerHorizontal="true">-->
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="SUBMIT"
-                android:layout_gravity="center"
-                android:textSize="20dp"
-                android:textColor="#fff"/>
-        </android.support.v7.widget.CardView>
+        <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="SUBMIT"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:textSize="20dp"-->
+        <!--android:textColor="#fff"/>-->
+        <Button
+            android:id="@+id/B_submit"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="32dp"
+            android:layout_marginRight="32dp"
+            android:background="@color/colorPrimaryDark"
+            android:text="Submit"
+            android:textColor="#fff"
+            android:textSize="20dp"
+            android:layout_marginTop="32dp"/>
+
+        <!--</android.support.v7.widget.CardView>-->
 
         <RelativeLayout
+            android:id="@+id/locationInfo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/locationInfo"
             android:layout_below="@id/cvDestination">
 
-        <android.support.v7.widget.CardView
-            android:id="@+id/cvInfo"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
-
-            <TextView
-                android:id="@+id/distance"
+            <android.support.v7.widget.CardView
+                android:id="@+id/cvInfo"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content" />
+                android:layout_height="wrap_content">
 
-            <TextView
-                android:id="@+id/duration"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" />
+                <TextView
+                    android:id="@+id/distance"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
 
-        </android.support.v7.widget.CardView>
+                <TextView
+                    android:id="@+id/duration"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+            </android.support.v7.widget.CardView>
 
         </RelativeLayout>
     </RelativeLayout>
